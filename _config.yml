@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://thoughtworksinc.github.io/JS-Monthly-Chengdu/
 root: /JS-Monthly-Chengdu
 permalink: :year/:month/:day/:title/
 permalink_defaults:

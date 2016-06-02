@@ -1,6 +1,6 @@
 ---
 title: JavaScript Monthly 第八期
-date: 2016-05-17 07:58:43
+date: 2016-05-20 07:58:43
 tags:
 - monthly
 ---

@@ -2,7 +2,7 @@
 title: JavaScript Monthly 第六期
 tags:
 - monthly
-date: 2016-03-02 12:16:38
+date: 2016-03-20 12:16:38
 ---
 # NEWS
 

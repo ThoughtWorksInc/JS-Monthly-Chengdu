@@ -29,6 +29,7 @@ JS技术现状和选型推荐
 Nice 命令行Loading动效
 
 [React-vis](https://github.com/uber-common/react-vis)
+Uber开发React图表库
 
 [Nwb](https://github.com/insin/nwb)
 会自动安装引入库的命令行项目管理工具

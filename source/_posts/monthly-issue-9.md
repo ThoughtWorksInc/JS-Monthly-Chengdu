@@ -11,7 +11,7 @@ date: 2016-06-20 13:17:11
 [JSConf in Nanjing](http://www.bagevent.com/event/58905)
 九月三号四号南京Conf，不见不散
 
-# Black Magic
+# BLACK MAGIC
 [React CSS components](https://github.com/andreypopp/react-css-components)
 component和css结合，新玩法，来看看
 

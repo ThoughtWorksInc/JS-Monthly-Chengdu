@@ -2,6 +2,11 @@
 title: JavaScript Monthly 第一期
 tags:
 - monthly
+categories:
+- monthly
+keywords:
+- javascript
+- monthly
 date: 2015-10-20 14:07:08
 ---
 # NEWS
@@ -10,6 +15,8 @@ Facebook刚流出的React Native Android, 已经有团体抢先试水
 
 [RAIL，以用户为核心的性能模型](http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=e5f7243fca&e=81238108bb)
 Google 试图建立一个关于网站载入性能的标准模型Rail
+
+<!-- more -->
 
 # Tech
 

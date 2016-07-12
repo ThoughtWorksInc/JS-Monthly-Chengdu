@@ -2,6 +2,8 @@
 title: JavaScript Monthly 第六期
 tags:
 - monthly
+categories:
+- monthly
 date: 2016-03-20 12:16:38
 ---
 # NEWS
@@ -11,6 +13,8 @@ React即将发布正式版，并优化了底层实现
 
 [React Conf](https://www.youtube.com/watch?v=MGuKhcnrqGA&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 年度Facebook React大会
+
+<!-- more -->
 
 # Tech
 

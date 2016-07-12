@@ -2,6 +2,8 @@
 title: JavaScript Monthly 第二期
 tags:
 - monthly
+categories:
+- monthly
 date: 2015-11-20 14:02:08
 ---
 # NEWS
@@ -14,6 +16,8 @@ Angular 2.0 要来了
 
 [Babel 6.0 release](http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=4f10275eb3&e=06daca7060)
 Babel 6.0 发布, Babel将会把es6转换工作交给插件, 本身会成为一款Javascript的工具平台
+
+<!-- more -->
 
 # Tech
 

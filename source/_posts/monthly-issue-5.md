@@ -2,12 +2,16 @@
 title: JavaScript Monthly 第五期
 tags:
 - monthly
+categories:
+- monthly
 date: 2016-02-20 13:37:09
 ---
 # NEWS
 
 [React将放弃支持IE8](https://facebook.github.io/react/blog/2016/01/12/discontinuing-ie8-support.html?utm_source=javascriptweekly&utm_medium=email)
 随着微软对IE放弃维护，Facebook会逐渐放弃对IE老版本的支持
+
+<!-- more -->
 
 # Tech
 

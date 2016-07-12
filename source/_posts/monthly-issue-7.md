@@ -3,6 +3,8 @@ title: JavaScript Monthly 第七期
 date: 2016-04-20 12:06:49
 tags:
 - monthly
+categories:
+- monthly
 ---
 # NEWS
 
@@ -14,6 +16,8 @@ NPM官网现在全面支持https, 所有原http地址将会重定向到https地�
 
 [NPM下架策略变动](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy)
 经过之前下架风波，现在只有24小时上线的新包可以无条件下架
+
+<!-- more -->
 
 # Tech
 

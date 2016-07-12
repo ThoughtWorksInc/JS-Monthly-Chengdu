@@ -2,12 +2,16 @@
 title: JavaScript Monthly 第三期
 tags:
 - monthly
+categories:
+- monthly
 date: 2015-12-20 13:49:30
 ---
 # NEWS
 
 [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
 阿里推出IOS风格的精美组件
+
+<!-- more -->
 
 # Tech
 

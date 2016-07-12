@@ -3,6 +3,8 @@ title: JavaScript Monthly 第八期
 date: 2016-05-20 07:58:43
 tags:
 - monthly
+categories:
+- monthly
 ---
 
 #  NEWS
@@ -15,6 +17,8 @@ Nodejs宣布支持ES6 93%的特性
 
 [Announcing Vue.js 2.0](https://vuejs.org/2016/04/27/announcing-2.0/)
 Vue发布预览版，将支持Virtual DOM和Server Render
+
+<!-- more -->
 
 # Tech
 

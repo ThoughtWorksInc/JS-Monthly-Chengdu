@@ -2,12 +2,16 @@
 title: JavaScript Monthly 第四期
 tags:
 - monthly
+categories:
+- monthly
 date: 2016-01-20 13:44:32
 ---
 # NEWS
 
 [Angular 2 Beta Released](http://angularjs.blogspot.hk/2015/12/angular-2-beta.html?utm_source=javascriptweekly&utm_medium=email)
 Angular 2 Beta 正式发布，准备接受你的检验
+
+<!-- more -->
 
 # Tech
 

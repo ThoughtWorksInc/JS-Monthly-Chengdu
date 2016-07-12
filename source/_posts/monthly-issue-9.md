@@ -2,6 +2,8 @@
 title: JavaScript Monthly 第九期
 tags:
   - monthly
+categories:
+  - monthly
 date: 2016-06-20 13:17:11
 ---
 # NEWS
@@ -10,6 +12,8 @@ date: 2016-06-20 13:17:11
 
 [JSConf in Nanjing](http://www.bagevent.com/event/58905)
 九月三号四号南京Conf，不见不散
+
+<!-- more -->
 
 # BLACK MAGIC
 [React CSS components](https://github.com/andreypopp/react-css-components)

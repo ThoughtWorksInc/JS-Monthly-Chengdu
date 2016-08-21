@@ -1,12 +1,14 @@
 ---
 title: JavaScript Monthly 第十期
 tags:
-  - monthly
+- monthly
 categories:
-  - monthly
+- monthly
 date: 2016-07-19 15:50:23
 ---
-# TECH
+## Tech
+---------
+
 [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
 案例教学：教你如何去除代码中Mixin
 
@@ -14,7 +16,8 @@ date: 2016-07-19 15:50:23
 简述React Error系统的工作原理
 <!-- more -->
 
-# Repo
+## Repo
+---------
 
 [Anime](https://github.com/juliangarnier/anime)
 火的不要不要的动画库

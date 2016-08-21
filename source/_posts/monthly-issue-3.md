@@ -6,14 +6,16 @@ categories:
 - monthly
 date: 2015-12-20 13:49:30
 ---
-# NEWS
+## News
+---------
 
 [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
 阿里推出IOS风格的精美组件
 
 <!-- more -->
 
-# Tech
+## Tech
+---------
 
 [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 教程：React，Redux，Immutable 全栈实践投票系统
@@ -21,7 +23,8 @@ date: 2015-12-20 13:49:30
 [Css-modules](https://github.com/css-modules/css-modules)
 更全面的组件化CSS
 
-# Repo
+## Repo
+---------
 
 [MRN](https://github.com/binggg/mrn)
 Material Design 风格 React Native 组件库
@@ -38,7 +41,8 @@ Newly打包工具，特有tree-shaking机制可以做到在打包时按需引入
 [Dragula](https://github.com/bevacqua/dragula)
 零依赖让任意html元素具有拖拽功能
 
-# Basic
+## Basic
+---------
 
 [Getting Started with Redux](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
 Redux火得不要不要的！视频教程，如有雷同，纯属巧合。

@@ -6,7 +6,9 @@ categories:
   - monthly
 date: 2016-06-20 13:17:11
 ---
-# NEWS
+## News
+---------
+
 [Monthly归档](http://thoughtworksinc.github.io/JS-Monthly-Chengdu/)
 走过，错过的同学不再后悔
 
@@ -15,7 +17,9 @@ date: 2016-06-20 13:17:11
 
 <!-- more -->
 
-# BLACK MAGIC
+## Black Magic
+---------
+
 [React CSS components](https://github.com/andreypopp/react-css-components)
 component和css结合，新玩法，来看看
 
@@ -28,7 +32,8 @@ React Server Render服务
 [PeerWeb Browser](https://github.com/retrohacker/peerweb)
 在浏览器上怎么玩P2P，拭目以待
 
-# Repo
+## Repo
+---------
 
 [Mock on React Native](https://github.com/lelandrichardson/react-native-mock)
   

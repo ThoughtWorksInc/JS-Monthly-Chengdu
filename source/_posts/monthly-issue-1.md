@@ -9,7 +9,9 @@ keywords:
 - monthly
 date: 2015-10-20 14:07:08
 ---
-# NEWS
+## News
+---------
+
 [React Native For Android 架构初探](http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=27674fea37&e=81238108bb)
 Facebook刚流出的React Native Android, 已经有团体抢先试水
 
@@ -18,7 +20,8 @@ Google 试图建立一个关于网站载入性能的标准模型Rail
 
 <!-- more -->
 
-# Tech
+## Tech
+---------
 
 [@font-face的困境](http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=17bfc9c88c&e=81238108bb)
 新技术使用也是有代价的
@@ -29,7 +32,8 @@ Google 试图建立一个关于网站载入性能的标准模型Rail
 [Functional Programming Guide](http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=c79440dc97&e=81238108bb)
 函数式编程指南
 
-# Repo
+## Repo
+---------
 
 [WeUI](http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&id=00c2ea6691&e=81238108bb)
 WeUI 为微信 Web 服务量身设计

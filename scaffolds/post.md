@@ -3,11 +3,17 @@ title: {{ title }}
 date: {{ date }}
 tags:
 - monthly
+categories:
+- monthly
 ---
-# NEWS
+#### News
+---------
 
-# Tech
+#### Tech
+---------
 
-# Repo
+#### Repo
+---------
 
-# Basic
+#### Basic
+---------

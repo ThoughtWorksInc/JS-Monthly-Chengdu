@@ -1,5 +1,5 @@
 # Tranquilpeak
-# Version : 1.8.0
+# Version : 1.10.0
 # Author : Louis Barranqueiro
 
 # I STRONGLY recommend you to use a CDN to speed up loading of pages.
@@ -35,14 +35,14 @@ sidebar:
             title: global.home
             url: /
             icon: home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: bookmark
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: tags
+        # categories:
+        #     title: global.categories
+        #     url: /all-categories
+        #     icon: bookmark
+        # tags:
+        #     title: global.tags
+        #     url: /all-tags
+        #     icon: tags
         archives:
             title: global.archives
             url: /all-archives
@@ -51,12 +51,12 @@ sidebar:
             title: global.search
             url: /#search
             icon: search
-            # `st-search-show-outputs` classes are used to open swiftype search window
-            class: st-search-show-outputs
-        about:
-            title: global.about
-            url: /#about
-            icon: question
+            # `open-algolia-search` classes are used to open algolia search modal
+            class: open-algolia-search
+        # about:
+        #     title: global.about
+        #     url: /#about
+        #     icon: question
     author_links:
         github:
             title: global.github
@@ -82,10 +82,10 @@ sidebar:
         #     title: global.linkedin
         #     url: https://www.linkedin.com/profile/
         #     icon: linkedin
-        # mail:
-        #     title: global.mail
-        #     url: mailto:
-        #     icon: envelope-o
+        mail:
+            title: global.mail
+            url: "mailto:js-china@thoughtworks.com"
+            icon: envelope-o
     rss:
         rss:
             title: global.rss
@@ -98,10 +98,10 @@ sidebar:
 # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
 # By default, author's gravatar or author's picture is displayed if `icon` is empty
 # DON'T edit `header`, `right_link`, `url`, `icon` and `class` variable name
-# E.g to display a shortcut to open swiftype search window :
+# E.g to display a shortcut to open algolia search window :
 #     url: /#search
 #     icon: search
-#     class: st-search-show-outputs
+#     class: open-algolia-search
 header:
     right_link:
         url: /#about
@@ -112,7 +112,7 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
+    email: js-china@thoughtworks.com
     location: Chengdu
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
@@ -121,19 +121,30 @@ author:
     picture: https://avatars3.githubusercontent.com/u/168376?v=3&s=200
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
-    # Your google plus profile id. E.g : `+Tranquilpeak` or `123812884128439`
+    # Your personal google plus profile id, not your blog or business page id.
+    # E.g : `+JohnDoe` or `123812884128439`
     google_plus:
+    # Your businnes google plus profile id. If not provided, personal will be used instead.
+    # E.g : `+Tranquilpeak` or `123812884128439`
+    google_plus_business:
 
 
 # Customization
 # Define the behavior of the sidebar
-# 1: Display large sidebar on large screen, medium sidebar on medium screen and header bar on small screen
-# and large sidebar is swiped
-# 2: Display medium sidebar on large and medium screen and header bar on small screen and medium sidebar is swiped (default)
-# 3: Display header bar on all screens and large sidebar is swiped
-# 4: Display header bar on all screens and medium sidebar is swiped
-sidebar_behavior: 1
-# Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
+# 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
+# medium sidebar on medium screen and header bar on small screen and
+# extra large sidebar is swiped on extra large screen and large sidebar on all lower screen (default)
+# 2: Display large sidebar on large screen, medium sidebar on medium screen and
+# header bar on small screen and large sidebar is swiped
+# 3: Display medium sidebar on large and medium screen and header bar on small screen and
+# medium sidebar is swiped
+# 4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and
+# large sidebar is swiped on all lower screens
+# 5: Display header bar on all screens and large sidebar is swiped on large screen
+# 6: Display header bar on all screens and medium sidebar is swiped
+sidebar_behavior: 2
+# Hide sidebar on all article page to let article take full width to improve reading, and
+# enjoy wide images and cover images. (true: enable, false: disable)
 clear_reading: true
 # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
 thumbnail_image: true
@@ -141,7 +152,8 @@ thumbnail_image: true
 # Set this value to `right` if you have old posts to keep the old style on them
 # and define `thumbnailImagePosition` on a post to overwrite this setting
 thumbnail_image_position: right
-# Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
+# Automatically select the cover image or the first photo from the gallery of a post if
+# there is no thumbnail image as the thumbnail image
 # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
 # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
 auto_thumbnail_image: true
@@ -149,7 +161,8 @@ auto_thumbnail_image: true
 # There is many free CDN like Cloudinary or you can also use indirectly
 # by using services like Google Photos.
 # Current image is on AWS S3 and delivered by AWS CloudFront.
-# Otherwise put your image in folder `source/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
+# Otherwise put your image in folder `source/_images/` (development)
+# or in `source/assets/images/` if you can't or don't want to build the theme,
 # and use relative url : `your-image.png`
 cover_image: cover.jpg
 # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
@@ -175,9 +188,49 @@ google_analytics_id:
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email:
-# Your swiftype install key
-swiftype_install_key:
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
 fb_app_id:
+
+
+# Sharing options
+# Comment and uncomment to enable or disable sharing options
+# If you wanna add a sharing option, read user documentation :
+# Tranquilpeak configuration > Theme configuration > sharing-options
+sharing_options:
+    facebook:
+        icon: "fa-facebook-official"
+        url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
+    twitter:
+        icon: "fa-twitter"
+        url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
+    google_plus:
+        icon: "fa-google-plus"
+        url: "https://plus.google.com/share?url={{post.permalink}}"
+    # Asian social networks
+    # weibo:
+    #     title: "Weibo"
+    #     icon: "fa-weibo"
+    #     url: "http://service.weibo.com/share/share.php?&title={{post.permalink}}"
+    # qq:
+    #     title: "QQ"
+    #     icon: "fa-qq"
+    #     url: "http://connect.qq.com/widget/shareqq/index.html?url={{post.permalink}}&title={{post.title}}"
+    # qzone:
+    #     title: "Qzone"
+    #     icon: "fa-star"
+    #     url: "http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{post.permalink}}"
+    # renren:
+    #     title: "Renren"
+    #     icon: "fa-renren"
+    #     url: "http://widget.renren.com/dialog/share?resourceUrl={{post.permalink}}"
+    # Russian social networks
+    # vk:
+    #     title: "VK"
+    #     icon: "fa-vk"
+    #     url: "https://vk.com/share.php?url={{post.permalink}}"
+    # odnoklassniki:
+    #     title: "Odnoklassniki"
+    #     icon: "fa-odnoklassniki"
+    #     url: "https://connect.ok.ru/offer?url={{post.permalink}}"

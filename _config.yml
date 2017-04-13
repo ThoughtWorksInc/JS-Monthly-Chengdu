@@ -77,3 +77,18 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+algolia:
+  appId: "5MSZX10DRP"
+  apiKey: "00b2c069303246127b5b729ce98bdca9"
+  adminApiKey: "86dd8e9cfbd5eaafbc4a24f125998d8c"
+  chunkSize: 5000
+  indexName: "my-hexo-blog"
+  fields:
+    - title
+    - tags
+    - slug
+    - excerpt
+    - excerpt:strip
+    - photos
+    - gallery

@@ -8,7 +8,7 @@ If you want to report a bug or ask a question, [create an issue](https://github.
 
 - [General](#general)
 - [Requirements](#requirements)
-- [Installation](#installation)1
+- [Installation](#installation)
 - [Code style](#code-style)
 - [Code structure](#code-structure)
     * [Languages](#languages)
@@ -31,12 +31,12 @@ If you want to report a bug or ask a question, [create an issue](https://github.
 ## General ##
 
 - **Author** : Louis Barranqueiro
-- **Version** : 1.8.1
-- **Compatibility** : Hexo 3.0.0 or later
+- **Version** : 1.10.0
+- **Compatibility** : Node v4 or later, Hexo v3.0.0 or later
 
 ## Requirements ##
 
-1. **Node** : v0.10.35 or higher. Download [Node](https://nodejs.org/download/)
+1. **Node** : v4 or higher. Download [Node](https://nodejs.org/download/)
 2. **Hexo CLI** : v0.1.4 or higher. Run `npm install hexo-cli -g`
 3. **Grunt CLI** : v0.1.13 or higher. Run `npm install grunt-cli -g`
 4. **Bower** : v1.4.1 or higher. Run `npm install bower -g`

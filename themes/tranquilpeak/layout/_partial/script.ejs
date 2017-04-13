@@ -1,5 +1,5 @@
 <!--SCRIPTS-->
-<%- js('assets/js/script-dcdr5qgtikphhcmrazjpegm0decqu8lj1zmrekotfaqural6ngmf6dc2xuyk.min.js') %>
+<%- js('assets/js/script-ivwiy10zeb8fifc4swnhkwneuk64y53w2scmdmtp8thi9cqfxh31aowtroaz.min.js') %>
 <!--SCRIPTS END-->
 <% if (post.comments) { %>
     <% if (theme.disqus_shortname) { %>
@@ -10,7 +10,7 @@
                     this.page.identifier = '<%= post.disqusIdentifier %>';
                  <% } else { %>
                     this.page.identifier = '<%= post.path %>';
-                 <% } %>                 
+                 <% } %>
              };
             (function() {
                 var d = document, s = d.createElement('script');
@@ -35,13 +35,11 @@
         </script>
     <% } %>
 <% } %>
-<% if (theme.swiftype_install_key) { %>
-    <script type="text/javascript">
-        (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
-                (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
-            e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
-        })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
-
-        _st('install','<%= theme.swiftype_install_key %>','2.0.0');
+<% if (config.algolia && config.algolia.appId && config.algolia.apiKey && config.algolia.indexName) { %>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment-with-locales.min.js"></script>
+    <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+    <script>
+        var algoliaClient = algoliasearch('<%= config.algolia.appId %>', '<%= config.algolia.apiKey %>');
+        var algoliaIndex = algoliaClient.initIndex('<%= config.algolia.indexName %>');
     </script>
 <% } %>

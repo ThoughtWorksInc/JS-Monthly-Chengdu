@@ -53,5 +53,5 @@ module.exports = {
       ]
      }
    ],
-   editor: ['文一山', '曾磊']
+   editors: ['文一山', '曾磊']
 }

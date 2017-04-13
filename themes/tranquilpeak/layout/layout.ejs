@@ -4,7 +4,7 @@
     if (is_post() && theme.sidebar_behavior < 3 &&
         ((theme.clear_reading === true && page.clearReading !== false) ||
         page.clearReading === true)) {
-        sidebarBehavior = theme.sidebar_behavior + 2;
+        sidebarBehavior = theme.sidebar_behavior + 3;
     }
     else {
         sidebarBehavior = theme.sidebar_behavior;
@@ -25,7 +25,7 @@
                 <%- body %>
                 <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
             </div>
-            <% if (is_post()) { %>
+            <% if (is_post() && (page.actions === undefined || page.actions)) { %>
                 <div id="bottom-bar" class="post-bottom-bar" data-behavior="<%= sidebarBehavior %>">
                     <%- partial('_partial/post/actions', {post: page}) %>
                 </div>
@@ -33,7 +33,8 @@
             <% } %>
         </div>
         <%- partial('_partial/about', null, {cache: !config.relative_link}) %>
+        <%- partial('_partial/search', null, {cache: true}) %>
         <%- partial('_partial/cover', null, {cache: !config.relative_link}) %>
+        <%- partial('_partial/script', {post: page}) %>
     </body>
-    <%- partial('_partial/script', {post: page}) %>
 </html>

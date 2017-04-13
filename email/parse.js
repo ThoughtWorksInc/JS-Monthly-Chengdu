@@ -4,7 +4,15 @@ const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
 const swig = require('swig');
-let argv = require('yargs').argv;
+let argv = require('yargs')
+  .usage('Usage: $0 <command> [options]')
+  .describe('f', 'Load a file')
+  .describe('s', 'Specific issue Subject')
+  .describe('i', 'Specific issue Text')
+  .describe('e', 'Specific editors')
+  .demandOption(['f', 's', 'i', 'e'])
+  .help('h')
+  .argv;
 
 let file = argv.f;
 let subject = argv.s;

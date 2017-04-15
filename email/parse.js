@@ -3,6 +3,10 @@
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
+
+var mailgun = require('mailgun.js');
+var mg = mailgun.client({username: 'api', key: process.env.MAILGUN_API_KEY || ''});
+
 const swig = require('swig');
 let argv = require('yargs')
   .usage('Usage: $0 <command> [options]')
@@ -81,4 +85,13 @@ rl.on('close', function () {
     if (err) throw err;
     console.log('It\'s saved!');
   })
+
+  // mg.messages.create('', {
+  //     from: "JavaScript Community <>",
+  //     to: ["wittywys@gmail.com"],
+  //     subject: meta.subject,
+  //     html: result
+  //   })
+  //   .then(msg => console.log(msg)) // logs response data 
+  //   .catch(err => console.log(err)); // logs any error 
 })

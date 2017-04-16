@@ -147,13 +147,14 @@
                               <tbody>
                                 <tr>
                                   <td valign="top" class="m_-6095536032266940641mcnTextContent" style="padding:0px 18px 9px;line-height:normal;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;text-align:left">
+                                    {% for article in category.articles %}
                                     <p style="line-height:normal;margin:10px 0;padding:0;color:#202020;font-family:Helvetica;font-size:16px;text-align:left">
-                                      {% for article in category.articles %}
                                       <a href="{{article.link}}" style="color:#2baadf;font-weight:normal;text-decoration:underline;"
                                         target="_blank">{{ article.title }}</a>
                                         <br />
-                                        <div>{{ article.description }}</div> </p>
-                                      {% endfor %}
+                                        <div>{{ article.description }}</div>
+                                    </p>
+                                    {% endfor %}
                                   </td>
                                 </tr>
                               </tbody>

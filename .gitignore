@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 themes/*/node_modules/
+email/.credentical
+email/.token

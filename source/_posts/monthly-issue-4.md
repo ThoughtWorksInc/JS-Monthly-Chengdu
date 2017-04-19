@@ -6,7 +6,7 @@ categories:
 - monthly
 date: 2016-01-20 13:44:32
 ---
-## News
+#### News
 ---------
 
 [Angular 2 Beta Released](http://angularjs.blogspot.hk/2015/12/angular-2-beta.html?utm_source=javascriptweekly&utm_medium=email)
@@ -14,13 +14,13 @@ Angular 2 Beta 正式发布，准备接受你的检验
 
 <!-- more -->
 
-## Tech
+#### Tech
 ---------
 
 [Frontend-boilerplate](https://github.com/tj/frontend-boilerplate)
 前端框架的架子集合
 
-## Repo
+#### Repo
 ---------
 
 [Mem](https://github.com/sindresorhus/mem)
@@ -29,7 +29,7 @@ Angular 2 Beta 正式发布，准备接受你的检验
 [Redux-simple-router](https://github.com/rackt/redux-simple-router)
 简单，低学习成本的react-router到redux映射库(注意：旧闻，现在叫react-redux-router)
 
-## Basic
+#### Basic
 ---------
 
 [Unidirectional-user-interface-architectures](http://staltz.com/unidirectional-user-interface-architectures.html)

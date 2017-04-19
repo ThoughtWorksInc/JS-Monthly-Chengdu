@@ -6,7 +6,7 @@ categories:
 - monthly
 date: 2016-07-19 15:50:23
 ---
-## Tech
+#### Tech
 ---------
 
 [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
@@ -16,7 +16,7 @@ date: 2016-07-19 15:50:23
 简述React Error系统的工作原理
 <!-- more -->
 
-## Repo
+#### Repo
 ---------
 
 [Anime](https://github.com/juliangarnier/anime)

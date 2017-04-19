@@ -6,7 +6,7 @@ categories:
 - monthly
 date: 2016-03-20 12:16:38
 ---
-## News
+#### News
 ---------
 
 [React V15 预发布](https://facebook.github.io/react/blog/2016/03/07/react-v15-rc1.html)
@@ -17,7 +17,7 @@ React即将发布正式版，并优化了底层实现
 
 <!-- more -->
 
-## Tech
+#### Tech
 ---------
 
 [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf)
@@ -29,7 +29,7 @@ JS技术现状和选型推荐
 [Angular 2 Change Detection Explained](Angular 2 Change Detection Explained)
 解析Angular数据监听机制
 
-## Repo
+#### Repo
 ---------
 
 [Ora](https://github.com/sindresorhus/ora)
@@ -41,7 +41,7 @@ Uber开发React图表库
 [Nwb](https://github.com/insin/nwb)
 会自动安装引入库的命令行项目管理工具
 
-## Basic
+#### Basic
 ---------
 
 [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)

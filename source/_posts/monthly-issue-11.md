@@ -7,7 +7,7 @@ categories:
 date: 2016-08-20 15:43:32
 ---
 
-## Tech
+#### Tech
 ---------
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
@@ -15,13 +15,13 @@ FaceBook会逐渐使用React Fiber重新实现React底层的核心算法，本�
 
 <!--more-->
 
-## Repo
+#### Repo
 ---------
 
 [Passport](https://github.com/jaredhanson/passport)
 Simple, unobtrusive authentication for Node.js
 
-## Tools
+#### Tools
 ---------
 
 [Webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)
@@ -33,7 +33,7 @@ webpack输出ashboard，忘记原来的日志打印式的webpack吧
 [imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin)
 Webpack图片优化插件
 
-## Basic
+#### Basic
 ---------
      
 [Angular2基础教程](http://courses.angularclass.com/)

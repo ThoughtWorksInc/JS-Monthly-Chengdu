@@ -6,7 +6,7 @@ tags:
 categories:
 - monthly
 ---
-## News
+#### News
 ---------
 
 [React v15.0.1](https://facebook.github.io/react/blog/2016/04/08/react-v15.0.1.html)
@@ -20,19 +20,19 @@ NPM官网现在全面支持https, 所有原http地址将会重定向到https地�
 
 <!-- more -->
 
-## Tech
+#### Tech
 ---------
 
 [React-basic](https://github.com/reactjs/react-basic)
 详解React底层设计
 
-## Repo
+#### Repo
 ---------
 
 [Cash](https://github.com/dthree/cash)
 Linux命令跨平台解决方案
 
-# Basic
+#### Basic
 
 [介绍 Immutable.js和函数编程概念](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/?utm_source=javascriptweekly&utm_medium=email)
 函数式编程术语速查表，你值得拥有

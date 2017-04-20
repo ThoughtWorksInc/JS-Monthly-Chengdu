@@ -93,7 +93,7 @@ function sendMail(to, subject, html) {
   body.push(`Content-type:text/html;\r\n`);
   body.push(`TO: <js-china@thoughtworks.com>\r\n`);
   body.push(`BCC: <${to}>\r\n`);
-  body.push(`Subject: ${subject}\r\n`);
+  body.push(`Subject: =?utf-8?B?${Buffer.from(subject).toString('base64')}?=\r\n`);
   body.push(`\r\n`);
   body.push(html)
 

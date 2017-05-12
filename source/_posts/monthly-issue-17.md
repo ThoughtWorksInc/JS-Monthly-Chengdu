@@ -10,6 +10,8 @@ date: 2017-05-12 22:01:00
 [JsConf China](http://2017.jsconf.cn/)
 一年一届JS盛会，今年，上海
 
+<!--more-->
+
 #### Tech
 
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
@@ -38,4 +40,3 @@ date: 2017-05-12 22:01:00
 
 [RealWorld](https://github.com/gothinkster/realworld)
 喜欢看代码的同学有福了，多种框架TODO MVC实战代码
-

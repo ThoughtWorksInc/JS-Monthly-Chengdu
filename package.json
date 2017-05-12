@@ -3,12 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.0"
+    "version": "3.2.2"
   },
   "dependencies": {
     "google-auth-library": "^0.10.0",
     "googleapis": "^19.0.0",
     "hexo": "3.3.0",
+    "hexo-admin": "^2.2.1",
     "hexo-algoliasearch": "^0.2.1",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.4",

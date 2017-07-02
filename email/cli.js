@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const parse = require('./parse');
 const send = require('./send');
 

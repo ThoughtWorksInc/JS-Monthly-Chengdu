@@ -8,9 +8,10 @@ let argv = require('yargs')
   .describe('f', 'Load a file')
   .describe('s', 'Specific issue Subject')
   .describe('i', 'Specific issue Text')
-  .describe('e', 'Specific editors')
+  .describe('e', 'Specific editors，must use english comma divider')
   .describe('to', 'Specific receiver')
-  .demandOption(['f', 's', 'i', 'e', 'to'])
+  .describe('bcc', 'Specific receiver')
+  .demandOption(['f', 's', 'i', 'e', 'bcc'])
   .help('h')
   .argv;
 
@@ -19,9 +20,10 @@ let file = argv.f;
 let subject = argv.s;
 let issue_text = argv.i;
 let editors = argv.e;
-let to = argv.to
+let to = argv.to;
+let bcc = argv.bcc;
 
 parse(file, subject, issue_text, editors)
   .then(html => {
-    send(to, subject, html)
+    send(to, bcc,subject, html)
   })

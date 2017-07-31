@@ -5,9 +5,9 @@ const send = require('./send');
 
 let argv = require('yargs')
   .usage('Usage: $0 <command> [options]')
-  .describe('f', 'Load a file')
-  .describe('s', 'Specific issue Subject')
-  .describe('i', 'Specific issue Text')
+  .describe('f', 'Load a source file of the post')
+  .describe('s', 'Specific issue Subject of the Email')
+  .describe('i', 'Specific issue Sub Title of the Email')
   .describe('e', 'Specific editors，must use english comma divider')
   .describe('to', 'Specific receiver')
   .describe('bcc', 'Specific receiver')

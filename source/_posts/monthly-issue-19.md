@@ -1,4 +1,4 @@
-title: JavaScript Monthly 第十八期
+title: JavaScript Monthly 第十九期
 tags:
   - monthly
 categories:

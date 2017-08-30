@@ -1,5 +1,5 @@
 ---
-title: monthly-issue-20
+title: JavaScript Monthly 第二十期
 tags:
   - monthly
 categories:

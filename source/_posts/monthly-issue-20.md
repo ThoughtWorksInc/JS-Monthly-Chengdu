@@ -18,8 +18,8 @@ Mozilla 助力webpack，着重推动Webassembly发展
 [NODE_OPTIONS引入Node 8.x](https://medium.com/the-node-js-collection/node-options-has-landed-in-8-x-5fba57af703d)
 终于可以类似Java配置NODE运行参数了
 
-[Aya](https://thenewstack.io/node-js-forked-complaints-repeated-harassment/)
-NODE社区再次分裂，Aya
+[Ayo](https://thenewstack.io/node-js-forked-complaints-repeated-harassment/)
+NODE社区再次分裂，Ayo
 
 #### REPOS
 

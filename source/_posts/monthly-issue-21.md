@@ -1,5 +1,5 @@
 ---
-title: monthly-issue-21
+title: JavaScript Monthly 第二十一期
 tags:
   - monthly
 categories:

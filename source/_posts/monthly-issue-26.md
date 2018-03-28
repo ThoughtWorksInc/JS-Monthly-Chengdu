@@ -11,6 +11,8 @@ date: 2018-03-28 14:52:00
 [Could Array.prototype.flatten Become 'smoosh'?](https://github.com/tc39/proposal-flatMap/pull/56)
 前几周，TC39成员 Michael Ficarra 建议将 **flatten** 方法重命名为 **smoosh**，引发了一场社区撕逼， André Staltz （Cycle.js 作者）还创建了一个 <https://github.com/staltz/prevent-smoosh> github repo 抵制，各位看客可以吃瓜坐观(￣▽￣)
 
+<!--more-->
+
 #### NEWS
 [Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 React 16 预览新特性提前揭露，性能提升老大了

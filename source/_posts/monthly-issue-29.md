@@ -1,5 +1,5 @@
 ---
-title: monthly-issue-29
+title: JavaScript Monthly 第二十九期 
 tags:
   - monthly
 categories:

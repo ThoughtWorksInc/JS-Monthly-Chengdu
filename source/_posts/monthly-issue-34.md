@@ -9,8 +9,8 @@ date: 2019-03-18 00:00:00
 
 #### CSS
 
-[8个火狐浏览器的Path编辑器的小视频](https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6)
-8 Little Videos About the Firefox Shape Path Editor
+[8 Little Videos About the Firefox Shape Path Editor](https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6)
+8个火狐浏览器的Path编辑器的小视频
 
 [Animation in React](https://www.nearform.com/blog/animation-in-react/)
 轻松在React项目中加入动画

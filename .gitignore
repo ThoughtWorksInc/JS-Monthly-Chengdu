@@ -8,5 +8,6 @@ public/
 themes/*/node_modules/
 email/.credentical
 email/.token
+.history
 
 .idea

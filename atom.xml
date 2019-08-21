@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JS Monthly Chengdu</title>
+  
+  <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
+  
+  <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
+  <updated>2019-08-21T05:33:17.406Z</updated>
+  <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
+  
+  <author>
+    <name>JS Community Chengdu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十九期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/08/21/monthly-issue-39/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/08/21/monthly-issue-39/</id>
+    <published>2019-08-20T16:00:00.000Z</published>
+    <updated>2019-08-21T05:33:17.406Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://github.com/QiShaoXuan/css_tricks" target="_blank" rel="external">Css Tricks</a><br>提供一些常用的 css 样式, 非常的 <code>trick</code> : )</p>
+<p><a href="https://github.com/nostalgic-css/NES.css" target="_blank" rel="external">NES.css</a><br>非常炫酷 红白机风格的 css 库</p>
+<p><a href="https://codepen.io/ste-vg/pen/oKYjKV" target="_blank" rel="external">Running Horse</a><br>马儿奔跑的动画, 纯 CSS 编写 , 套马的汉子你威武雄壮</p>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://github.com/facebook/react/releases" target="_blank" rel="external">React 16.9.0 Released</a><br>React 16.9.0 发布, 废弃了 <code>UNSAFE_*</code> 的生命周期 , 增加 <code>&lt;React.Profiler&gt;</code> 组件用于调试性能</p>
+<p><a href="https://5d403395cd145c0008eea971--ant-design.netlify.com/components/form-cn/" target="_blank" rel="external">Ant Design 4.0.0 Prepare</a><br>Ant Design 作为最受欢迎的组件库, <code>Form</code> 组件 一直饱受诟病, 使用复杂, 在 <code>4.0.0-alpha.0</code>, 中 官方对其完全重构, 想看看这全新的 <code>Form</code> 组件吗?</p>
+<p><a href="https://2019.js13kgames.com/" target="_blank" rel="external">Js13kbGames</a><br>HTML5 游戏开发者的趣味比赛, 规定选手开发的游戏大小最多不能超过 <code>13kb</code></p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/kefranabg/readme-md-generator" target="_blank" rel="external">office-ui-fabric-react</a><br>微软 网页版 office 的 <code>React</code> UI 组件库.</p>
+<p><a href="https://github.com/domenic/svg2png" target="_blank" rel="external">svg2png</a><br>一个nodejs的库, 用于将 <code>svg</code> 图片 转换成 <code>png</code> 可配合 <a href="https://github.com/shrhdk/text-to-svg" target="_blank" rel="external">text-to-svg</a> , 实现服务端的海报生成</p>
+<p><a href="https://github.com/taofed/imgcook" target="_blank" rel="external">imgcook</a><br>通过设计稿一键智能生成视图代码。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/QiShaoXuan/css_tricks&quot; target=&quot;_blank&quot;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十八期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/07/21/monthly-issue-38/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/07/21/monthly-issue-38/</id>
+    <published>2019-07-20T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.093Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://2019.stateofcss.com/" target="_blank" rel="external">The State of CSS 2019</a><br>找出2019年CSS调查结果中哪些CSS功能使用最多，哪些工具正在被采用。</p>
+<p><a href="https://webdesign.tutsplus.com/articles/find-out-why-your-css-isnt-working--cms-33472" target="_blank" rel="external">Find Out Why Your CSS Isn’t Working! New Firefox DevTools Features</a><br>Kezz Bracey介绍了Firefox Nightly DevTools中提供的新功能，帮助您找出为什么您的CSS不生效。</p>
+<p><a href="https://css-tricks.com/animating-with-clip-path" target="_blank" rel="external">Animating with Clip-Path</a><br>Travis Almand为您展示如何使用clip-path来创建复杂的动画。</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://v8.dev/blog/cost-of-javascript-2019" target="_blank" rel="external">The Cost of JavaScript in 2019</a><br>如果您想了解2019年JavaScript的真正瓶颈在哪里，这是必读的。</p>
+<p><a href="https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6" target="_blank" rel="external">The State of Angular in 2019</a><br>当谈到Angular时，我们不会关注大型版本和最佳教程之外的内容，但是如果你想知道更多的细节，那么这篇文章是对Angular生态系统状态的概述。</p>
+<p><a href="https://babeljs.io/blog/2019/07/03/7.5.0" target="_blank" rel="external">Babel 7.5.0 Released</a><br>Babel 7.5现在包含一个动态导入的官方插件和类F＃管道操作符。还有对TypeScript命名空间的实验性支持。</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/kefranabg/readme-md-generator" target="_blank" rel="external">Readme-MD-Generator</a><br>一个简单的CLI，可根据您的package.json和git配置生成漂亮的README.md文件。</p>
+<p><a href="https://useanimations.com" target="_blank" rel="external">useAnimations</a><br>一组动画图标，可立即实施到您的应用或网站。</p>
+<p><a href="https://p5js.org/" target="_blank" rel="external">p5.js</a><br>查看live p5.js游乐场中的一些示例，它使得可视化和视觉实验非常容易。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://2019.stateofcss.com/&quot;&gt;The State of CSS 2019&lt;/a&gt;&lt;br&gt;找出2019年CSS调查结果中哪些CSS功能使用最多，哪些工具正在被采用。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://webdesign.tutsplus.com/articles/find-out-why-your-css-isnt-working--cms-33472&quot;&gt;Find Out Why Your CSS Isn’t Working! New Firefox DevTools Features&lt;/a&gt;&lt;br&gt;Kezz Bracey介绍了Firefox Nightly DevTools中提供的新功能，帮助您找出为什么您的CSS不生效。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/animating-with-clip-path&quot;&gt;Animating with Clip-Path&lt;/a&gt;&lt;br&gt;Travis Almand为您展示如何使用clip-path来创建复杂的动画。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十七期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/06/21/monthly-issue-37/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/06/21/monthly-issue-37/</id>
+    <published>2019-06-20T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.093Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://betterwebtype.com/articles/2019/05/14/the-state-of-fluid-web-typography" target="_blank" rel="external">The State of Fluid Web Typography</a><br>MatejLatin研究了一些流畅的响应式网页排版方法</p>
+<p><a href="https://www.joshwcomeau.com/posts/folding-the-dom" target="_blank" rel="external">Folding the DOM</a><br>JoshComeau演示了如何利用3D CSS引擎折叠图像</p>
+<p><a href="https://dev.to/ananyaneogi/css-can-do-that-18g7" target="_blank" rel="external">CSS Can Do That?</a><br>AnanyaNeogi分享了CSS可以做的令人惊奇的事情</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://martinfowler.com/articles/micro-frontends.html" target="_blank" rel="external">Micro Frontends</a><br>MartinFowler发表了文章描述微前端的趋势，以及这种架构如何提高您的效率</p>
+<p><a href="https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md" target="_blank" rel="external">Vue.js 3.0 to Gain a Function-Based Component API? </a><br>Vue.js的组件讲以function-based API的形式重新设计</p>
+<p><a href="https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27" target="_blank" rel="external">Angular 8 Released</a><br>Angular 8 显著减少了在现代浏览器中应用程序的启动时间、提供了用于定制 CLI 的新 API</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://performance-budgets.netlify.com" target="_blank" rel="external">Performance-Budgets</a><br>Performance-Budgets可让您以简单的方式检查应用并始终保持最佳性能</p>
+<p><a href="https://tornis.robbowen.digital" target="_blank" rel="external">Tornis</a><br>Tornis可以监视浏览器视口的状态，允许您在发生变化时做出响应</p>
+<p><a href="https://github.com/metafizzy/zdog" target="_blank" rel="external">Zdog</a><br>Zdog是一款圆形扁平的伪3D引擎 支持canvas和SVG</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://betterwebtype.com/articles/2019/05/14/the-state-of-fluid-web-typography&quot;&gt;The State of Fluid Web Typography&lt;/a&gt;&lt;br&gt;MatejLatin研究了一些流畅的响应式网页排版方法&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.joshwcomeau.com/posts/folding-the-dom&quot;&gt;Folding the DOM&lt;/a&gt;&lt;br&gt;JoshComeau演示了如何利用3D CSS引擎折叠图像&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dev.to/ananyaneogi/css-can-do-that-18g7&quot;&gt;CSS Can Do That?&lt;/a&gt;&lt;br&gt;AnanyaNeogi分享了CSS可以做的令人惊奇的事情&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十六期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/05/21/monthly-issue-36/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/05/21/monthly-issue-36/</id>
+    <published>2019-05-20T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11" target="_blank" rel="external">The CSS Handbook: A Handy Guide to CSS for Developers</a><br>Flavio Copes写了一份指南，帮助任何人快速学习CSS基础并熟悉高级CSS</p>
+<p><a href="https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/" target="_blank" rel="external">Edge Goes Chromium: What Does it Mean for Front-End Developers?</a><br>Ollie Williams分析了Microsoft Edge切换到Chromium的影响</p>
+<p><a href="https://blog.logrocket.com/understanding-shadow-dom-v1-fa9b81ebe3ac" target="_blank" rel="external">Understanding Shadow DOM v1</a><br>Faraz Kelhini介绍了Shadow DOM.</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://frontendmasters.com/books/front-end-handbook/2019/" target="_blank" rel="external">Front-End Developer Handbook 2019</a><br>Cody Lindley创建了一本指南，其中包含前端工程中的最新学习资源和开发工具</p>
+<p><a href="https://mathiasbynens.be/notes/globalthis" target="_blank" rel="external">A ‘Horrifying’ (or Genius?) globalThis Polyfill</a><br>Mathias对于当前JavaScript实现所提议的’globalThis’功能并不失望，但事实证明这很难实现</p>
+<p><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f" target="_blank" rel="external">Node.js 12 Released, And It’s a Big One</a><br>Node.js 12发布啦</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://atomiks.github.io/tippyjs/" target="_blank" rel="external">Tippy.js</a><br>高度可定制的Tooltip和Popover库</p>
+<p><a href="https://github.com/francoischalifour/medium-zoom" target="_blank" rel="external">Medium-Zoom</a><br>用于缩放图像的响应性，高性能JavaScript库</p>
+<p><a href="https://github.com/niklasvh/html2canvas" target="_blank" rel="external">html2canvas</a><br>直接在用户浏览器上截取网页或部分网页的“屏幕截图”工具</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11&quot;&gt;The CSS Handbook: A Handy Guide to CSS for Developers&lt;/a&gt;&lt;br&gt;Flavio Copes写了一份指南，帮助任何人快速学习CSS基础并熟悉高级CSS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/&quot;&gt;Edge Goes Chromium: What Does it Mean for Front-End Developers?&lt;/a&gt;&lt;br&gt;Ollie Williams分析了Microsoft Edge切换到Chromium的影响&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.logrocket.com/understanding-shadow-dom-v1-fa9b81ebe3ac&quot;&gt;Understanding Shadow DOM v1&lt;/a&gt;&lt;br&gt;Faraz Kelhini介绍了Shadow DOM.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十五期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/04/18/monthly-issue-35/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/04/18/monthly-issue-35/</id>
+    <published>2019-04-17T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://css-irl.info/how-to-convince-your-team-to-adopt-grid/" target="_blank" rel="external">How to Convince Your Team to Adopt CSS Grid</a><br>如何说服你的团队接受CSS Grid</p>
+<p><a href="http://clagnut.com/blog/2395" target="_blank" rel="external">All You Need to Know About Hyphenation in CSS</a><br>所有你需要知道的CSS连字符</p>
+<p><a href="https://codyhouse.co/blog/post/dark-light-switch-css-javascript" target="_blank" rel="external">How to Create a Dark\Light Mode Switch in CSS and Javascript</a><br>如何使用CSS和JS来创建Dark\Light模式</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/" target="_blank" rel="external">Announcing TypeScript 3.4</a><br>TypeScript 3.4发布了</p>
+<p><a href="https://github.com/twitter/twemoji" target="_blank" rel="external">jQuery 3.4.0 Released</a><br>jQuery 3.4发布了</p>
+<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">Twemoji (Twitter Emoji): Emojis for Everyone</a><br>Twemoji：一个Emojis库</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://wangchujiang.com/hotkeys/" target="_blank" rel="external">hotkeys.js</a><br>用于捕获键盘输入和组合键 零依赖</p>
+<p><a href="http://mozilla.github.io/nunjucks/" target="_blank" rel="external">Nunjucks</a><br>一种强大的JavaScript模板引擎</p>
+<p><a href="https://codex.so/editor" target="_blank" rel="external">Editor.js</a><br>一个block styled编辑器 </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://css-irl.info/how-to-convince-your-team-to-adopt-grid/&quot;&gt;How to Convince Your Team to Adopt CSS Grid&lt;/a&gt;&lt;br&gt;如何说服你的团队接受CSS Grid&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://clagnut.com/blog/2395&quot;&gt;All You Need to Know About Hyphenation in CSS&lt;/a&gt;&lt;br&gt;所有你需要知道的CSS连字符&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codyhouse.co/blog/post/dark-light-switch-css-javascript&quot;&gt;How to Create a Dark\Light Mode Switch in CSS and Javascript&lt;/a&gt;&lt;br&gt;如何使用CSS和JS来创建Dark\Light模式&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十四期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/</id>
+    <published>2019-03-17T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8 Little Videos About the Firefox Shape Path Editor</a><br>8个火狐浏览器的Path编辑器的小视频</p>
+<p><a href="https://www.nearform.com/blog/animation-in-react/" target="_blank" rel="external">Animation in React</a><br>轻松在React项目中加入动画</p>
+<p><a href="https://codepen.io/mikegolus/pen/rQpZOV" target="_blank" rel="external">CSS Quarto</a><br>纯CSS实现的大同棋游戏</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://developers.google.com/web/updates/2019/03/kv-storage" target="_blank" rel="external">KV Storage: the Web’s First Built-in Module</a><br>KV Storage: 浏览器的第一个内置模块</p>
+<p><a href="https://developers.google.com/web/fundamentals/performance/resource-prioritization" target="_blank" rel="external">Resource Prioritization – Getting the Browser to Help You</a><br>让浏览器帮助你管理资源优先级</p>
+<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">A Complete Guide to React’s useEffect</a><br>使用React useEffect的完整指南</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://split.js.org/" target="_blank" rel="external">Split.js</a><br>Split.js 2kb 零依赖 帮助你快速实现页面布局</p>
+<p><a href="https://victordibia.github.io/handtrack.js/#/" target="_blank" rel="external">handtrack.js</a><br>使用Tensorflow.js和三行代码实现手部跟踪</p>
+<p><a href="https://www.color-ui.com/" target="_blank" rel="external">Color UI</a><br>鲜亮的高饱和色彩，专注视觉的小程序组件库</p>
+<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8 Little Videos About the Firefox Shape Path Editor&lt;/a&gt;&lt;br&gt;8个火狐浏览器的Path编辑器的小视频&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nearform.com/blog/animation-in-react/&quot;&gt;Animation in React&lt;/a&gt;&lt;br&gt;轻松在React项目中加入动画&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/mikegolus/pen/rQpZOV&quot;&gt;CSS Quarto&lt;/a&gt;&lt;br&gt;纯CSS实现的大同棋游戏&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十三期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/02/18/monthly-issue-33/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/02/18/monthly-issue-33/</id>
+    <published>2019-02-17T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://css-irl.info/to-grid-or-to-flex/?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">To Grid or to Flex?</a><br>全面对比Grid和Flex布局</p>
+<p><a href="https://www.smashingmagazine.com/2019/02/css-browser-support/?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">A Guide To CSS Support In Browsers</a><br>轻松处理CSS在不同类型的浏览器支持问题</p>
+<p><a href="https://codepen.io/briziel/full/oJdNdB?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">Solar System 3D Animation</a><br>纯CSS实现的太阳系3D动画</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://reactjs.org/blog/2019/02/06/react-v16.8.0.html" target="_blank" rel="external">React v16.8 Released</a><br>React v16.8 发布啦 试试新的Hooks！</p>
+<p><a href="https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e" target="_blank" rel="external">Vue 2.6 Released</a><br>Vue 2.6提供了slots新语法 增强了错误处理</p>
+<p><a href="http://2ality.com/2019/01/future-js.html" target="_blank" rel="external">Future JavaScript: What’s Still Missing?</a><br>现阶段的JavaScript还缺少哪些重要功能？</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://www.awesomes.cn/repo/esdoc/esdoc" target="_blank" rel="external">ESDoc</a><br>ESDoc - JavaScript 文档生成器</p>
+<p><a href="https://www.awesomes.cn/repo/a-jie/AniX" target="_blank" rel="external">AniX</a><br>超级简单和轻量的 JavaScript 动画库</p>
+<p><a href="https://www.awesomes.cn/repo/facebookincubator/fbt" target="_blank" rel="external">fbt</a><br>一个 JavaScript 国际化框架</p>
+<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+<h4 id="OTHER"><a href="#OTHER" class="headerlink" title="OTHER"></a>OTHER</h4><p><a href="https://www.zdnet.com/article/microsoft-security-chief-ie-is-not-a-browser-so-stop-using-it-as-your-default/" target="_blank" rel="external">Microsoft Security Chief: IE Is Not A Browser, So Stop Using It As Your Default </a><br>微软网络安全全球主管：IE不是浏览器，请大家别用了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://css-irl.info/to-grid-or-to-flex/?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;To Grid or to Flex?&lt;/a&gt;&lt;br&gt;全面对比Grid和Flex布局&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;br&gt;轻松处理CSS在不同类型的浏览器支持问题&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/briziel/full/oJdNdB?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;Solar System 3D Animation&lt;/a&gt;&lt;br&gt;纯CSS实现的太阳系3D动画&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十二期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/10/10/monthly-issue-32/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/10/10/monthly-issue-32/</id>
+    <published>2018-10-09T16:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547" target="_blank" rel="external">Vue 前瞻</a><br>尤雨溪带你了解 3.0 新特性</p>
+<a id="more"></a>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/Nozbe/WatermelonDB" target="_blank" rel="external">Watermelon DB</a><br>React 和 React Native 下一代数据库</p>
+<p><a href="https://github.com/axa-group/nlp.js" target="_blank" rel="external">Nlp.js</a><br>Node 版本的 NLP</p>
+<p><a href="https://github.com/ianstormtaylor/slate" target="_blank" rel="external">Slate</a><br>一款可以自定义的富文本编辑器</p>
+<h4 id="TECHES"><a href="#TECHES" class="headerlink" title="TECHES"></a>TECHES</h4><p><a href="https://serviceworke.rs/" target="_blank" rel="external">Service Worker Cookbook</a><br>sw 的菜谱，你喜欢哪一道？</p>
+<p><a href="https://github.com/leonardomso/33-js-concepts" target="_blank" rel="external">33-js-concepts (中文版)</a><br>📜 33 concepts every JavaScript developer should know. (📜 每个 JavaScript 工程师都应懂的33个概念)</p>
+<p><a href="https://hacks.mozilla.org/2018/11/the-power-of-web-components/" target="_blank" rel="external">The Power of Web Components</a><br>Web Components 给 Web 更多的想象力</p>
+<h4 id="BASICS"><a href="#BASICS" class="headerlink" title="BASICS"></a>BASICS</h4><p><a href="https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6" target="_blank" rel="external">Handling Errors in JavaScript: The Definitive Guide</a><br>JavaScript 中错误处理的一份小册，值得参考</p>
+<p><a href="https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0" target="_blank" rel="external">Common Testing Mistakes</a><br>单元测试中常犯的错误，记下小本本</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547&quot;&gt;Vue 前瞻&lt;/a&gt;&lt;br&gt;尤雨溪带你了解 3.0 新特性&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十一期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/09/10/monthly-issue-31/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/09/10/monthly-issue-31/</id>
+    <published>2018-09-10T03:35:31.000Z</published>
+    <updated>2019-08-21T04:58:34.092Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://mp.weixin.qq.com/s/hfr2Q3FXZFIdqM_r8HrLwQ" target="_blank" rel="external">Vue CLI 3.0</a><br>重磅！Vue CLI 3.0正式发布，带来多项重大更新 </p>
+<p><a href="https://mobiforge.com/design-development/the-generic-sensor-api" target="_blank" rel="external">通用传感器 API 介绍</a><br>看看新提案，不是个坏事</p>
+<a id="more"></a>
+<p><a href="https://babeljs.io/blog/2018/08/27/7.0.0" target="_blank" rel="external">Babel 7 Released</a><br>Babel 7 发布了，整合命名空间、增加 js 配置文件等等新特性，快来看看吧</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://fed.renren.com/2017/10/08/service-worker-notification/" target="_blank" rel="external">Web Push</a><br>用Service Worker 本地 push 消息 骚的一匹 | Jinke Li 供稿</p>
+<p><a href="https://zhuanlan.zhihu.com/p/29521210" target="_blank" rel="external">怎么写Bug</a><br>快速入门如何写出不可维护的代码 | Jinke Li 供稿</p>
+<p><a href="https://css-tricks.com/practical-css-scroll-snapping/" target="_blank" rel="external">Practical CSS Scroll Snapping</a><br>CSS <code>Scroll Snapping</code> 处理滚动 | Caraws 供稿</p>
+<p><a href="https://mp.weixin.qq.com/s/87OYpou4ynpvYlcExEO40w" target="_blank" rel="external">Life of a Pixel</a><br>让你更透彻地理解浏览器是如何工作的</p>
+<p><a href="https://www.robinwieruch.de/graphql-apollo-server-tutorial/" target="_blank" rel="external">GraphQL Server Tutorial with Apollo Server and Express</a><br>一份 GraphQL 搭建指南，都 8012 年了，不看就落伍啦</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/GoogleChromeLabs/size-plugin" target="_blank" rel="external">Size Plugin</a><br>给你的 Bundle Size 也做个diff</p>
+<p><a href="https://github.com/rwv/chinese-dos-games" target="_blank" rel="external">中文 DOS 游戏</a><br>在浏览器中游玩中文 DOS 游戏 | Xingxin Zeng 供稿</p>
+<h4 id="WEBSITE"><a href="#WEBSITE" class="headerlink" title="WEBSITE"></a>WEBSITE</h4><p><a href="https://regexper.com/#%2F%5E%5Cd(%3F%3D%5Cw" target="_blank" rel="external">regexper</a>%7B3%2C10%7D%24%2F)<br>图形化正则表达式 | Jinke Li 供稿</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/hfr2Q3FXZFIdqM_r8HrLwQ&quot;&gt;Vue CLI 3.0&lt;/a&gt;&lt;br&gt;重磅！Vue CLI 3.0正式发布，带来多项重大更新 &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mobiforge.com/design-development/the-generic-sensor-api&quot;&gt;通用传感器 API 介绍&lt;/a&gt;&lt;br&gt;看看新提案，不是个坏事&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/08/10/monthly-issue-30/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/08/10/monthly-issue-30/</id>
+    <published>2018-08-10T04:25:53.000Z</published>
+    <updated>2019-08-21T04:58:34.091Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html" target="_blank" rel="external">Typescript 3.0</a><br>Typescript 3.0 发布了，快来看看有什么新特性吧</p>
+<p><a href="https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets" target="_blank" rel="external">移除 Stage Presets</a><br>Babel 准备干掉 Stage，并作出一些调整，值得关注</p>
+<a id="more"></a>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/Netflix/pollyjs" target="_blank" rel="external">Pollyjs</a><br>为 HTTP 打桩（Stub）</p>
+<p><a href="https://github.com/philipwalton/flexbugs" target="_blank" rel="external">Flexbugs</a><br>Flex 布局 Bug 问题及解决方案集锦</p>
+<p><a href="https://github.com/typestack/class-validator" target="_blank" rel="external">Class Validator</a><br>基于 Typescript 的验证器，试试吧</p>
+<p><a href="https://github.com/beakerbrowser/beaker" target="_blank" rel="external">Beaker</a><br>发布你的网站，without a server</p>
+<h4 id="TOPICS"><a href="#TOPICS" class="headerlink" title="TOPICS"></a>TOPICS</h4><p><a href="https://www.youtube.com/watch?v=SV-cgdobtTA&amp;list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa" target="_blank" rel="external">JSConf in EU</a><br>JSConf 欧洲视频集锦</p>
+<p><a href="https://github.com/babel/babel-time-travel" target="_blank" rel="external">Babel Time Runtime</a><br>Babel 时间旅行，让你看看 Babel 编译过程</p>
+<p><a href="https://daveceddia.com/context-api-vs-redux/" target="_blank" rel="external">Redux vs. The React Context API</a><br>看看 React 新的 Context API 都干了啥吧，选型必备</p>
+<p><a href="https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d" target="_blank" rel="external">Nodejs 23 项安全清单</a><br>开发 Nodejs 必备安全清单，防患于未然</p>
+<p><a href="https://github.com/apexcharts/apexcharts.js" target="_blank" rel="external">Apexcharts</a><br>为啥又来一个图表库，看下<a href="https://medium.com/@juned.chhipa/bridging-the-gap-between-low-level-and-high-level-charting-libraries-a8f6c1819ba5" target="_blank" rel="external">文章</a>了解来由</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html&quot;&gt;Typescript 3.0&lt;/a&gt;&lt;br&gt;Typescript 3.0 发布了，快来看看有什么新特性吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets&quot;&gt;移除 Stage Presets&lt;/a&gt;&lt;br&gt;Babel 准备干掉 Stage，并作出一些调整，值得关注&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十九期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/07/24/monthly-issue-29/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/07/24/monthly-issue-29/</id>
+    <published>2018-07-23T16:39:08.000Z</published>
+    <updated>2019-08-21T04:58:34.091Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://mp.weixin.qq.com/s/o0EnLmcCX1FvjIe3NbutJA" target="_blank" rel="external">W3C重点报告发布，综述2018年发展路线图</a><br>大 Web 无所不包</p>
+<p><a href="https://www.ecma-international.org/publications/standards/Ecma-262.htm" target="_blank" rel="external">ECMAScript® 2018 Language Specification</a><br>ES 2018 发布</p>
+<a id="more"></a>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/alidcastano/rogue" target="_blank" rel="external">Rogue</a><br>一款零配置 React SSR 解决方案</p>
+<p><a href="https://github.com/GoogleChromeLabs/ndb" target="_blank" rel="external">Ndb</a><br>Nodejs 调试重型武器，Google 出品</p>
+<p><a href="https://github.com/mdx-js/mdx" target="_blank" rel="external">Mdx</a><br>你见过 JSX 版本的 Markdown 么，神奇</p>
+<p><a href="https://github.com/typeorm/typeorm" target="_blank" rel="external">Typeorm</a><br>给 Orm 也带上类型 &gt;&lt;</p>
+<h4 id="TECHES"><a href="#TECHES" class="headerlink" title="TECHES"></a>TECHES</h4><p><a href="https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/" target="_blank" rel="external">Why GraphQL: Advantages, Disadvantages &amp; Alternatives</a><br>GraphQL 优缺点对比，方案选项必备</p>
+<h4 id="TUTORIAL"><a href="#TUTORIAL" class="headerlink" title="TUTORIAL"></a>TUTORIAL</h4><p><a href="https://www.smashingmagazine.com/2018/07/redux-designers-guide/" target="_blank" rel="external">What Is Redux</a><br>清新的 Redux 图形化介绍</p>
+<p><a href="https://github.com/howtographql/howtographql" target="_blank" rel="external">How to GraphQL</a><br>GraphQL 全栈教程</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/o0EnLmcCX1FvjIe3NbutJA&quot;&gt;W3C重点报告发布，综述2018年发展路线图&lt;/a&gt;&lt;br&gt;大 Web 无所不包&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ecma-international.org/publications/standards/Ecma-262.htm&quot;&gt;ECMAScript® 2018 Language Specification&lt;/a&gt;&lt;br&gt;ES 2018 发布&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十八期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/06/27/monthly-issue-28/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/06/27/monthly-issue-28/</id>
+    <published>2018-06-27T13:40:40.000Z</published>
+    <updated>2019-08-21T04:58:34.091Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://developers.google.com/web/updates/2018/03/smooshgate" target="_blank" rel="external">Smoosh 之争的来龙去脉</a><br>Cause MooTools library do bad things!  附上正使用 <a href="https://gist.github.com/paulirish/a135445fc84f7ca5c486b52d5699825a" target="_blank" rel="external">MooTools 的网站列表</a></p>
+<p><a href="https://github.com/nervjs/taro" target="_blank" rel="external">NervJS/taro</a><br>京东多端统一开发框架，继 mpvue 后，React like 库也能来微信搞事情啦<br><a id="more"></a></p>
+<p><a href="https://developers.google.com/web/fundamentals/primers/modules" target="_blank" rel="external">Using JavaScript modules on the web</a><br>JS module 已经被主流浏览器支持了，是时候尝试下了</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/josdejong/mathjs" target="_blank" rel="external">Mathjs</a><br>Javascript 数学扩展库</p>
+<p><a href="https://github.com/sarahdayan/dinero.js" target="_blank" rel="external">Dinero.js</a><br>Monthly 操作库</p>
+<h4 id="TECHS"><a href="#TECHS" class="headerlink" title="TECHS"></a>TECHS</h4><p><a href="https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5" target="_blank" rel="external">最好用的 VSCode 插件</a><br>收集最好用的 VSCode 插件，助你又快又好的开发</p>
+<p><a href="https://github.com/HcySunYang/vue-design" target="_blank" rel="external">Vue 技术内幕</a><br>跟着大神剖析 Vue 技术内幕</p>
+<p><a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results" target="_blank" rel="external">2018 前端工具使用现状</a><br>覆盖前端方方面面的对比</p>
+<h4 id="BASICS"><a href="#BASICS" class="headerlink" title="BASICS"></a>BASICS</h4><p><a href="https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a" target="_blank" rel="external">ES6 Promise 入门指南</a><br>初心者入门，Promise 用起来</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://developers.google.com/web/updates/2018/03/smooshgate&quot;&gt;Smoosh 之争的来龙去脉&lt;/a&gt;&lt;br&gt;Cause MooTools library do bad things!  附上正使用 &lt;a href=&quot;https://gist.github.com/paulirish/a135445fc84f7ca5c486b52d5699825a&quot;&gt;MooTools 的网站列表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nervjs/taro&quot;&gt;NervJS/taro&lt;/a&gt;&lt;br&gt;京东多端统一开发框架，继 mpvue 后，React like 库也能来微信搞事情啦&lt;br&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十七期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/05/14/monthly-issue-27/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/05/14/monthly-issue-27/</id>
+    <published>2018-05-14T12:00:00.000Z</published>
+    <updated>2019-08-21T04:58:34.090Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html" target="_blank" rel="external">React 16.3</a><br>React 新特性大招频繁，别怕，官方有迁移方法</p>
+<p><a href="https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905" target="_blank" rel="external">npm v6 来了</a><br>NPM 杀回来了</p>
+<p><a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4" target="_blank" rel="external">Angular 6 现在可以使用啦</a><br>Angular 6 发布，Angular Element，ng library 等等新特性</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1" target="_blank" rel="external">迁移到 Typescript</a><br>一步一步体验 Typescript</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://js.tensorflow.org/" target="_blank" rel="external">TensorFlow.js</a><br>前端同学，是时候跟一波机器学习潮流了</p>
+<p><a href="https://github.com/mrmartineau/design-system-utils" target="_blank" rel="external">Design-system-utils</a><br>设计系统的theme工具库</p>
+<p><a href="https://github.com/xx45/dayjs" target="_blank" rel="external">Dayjs</a><br>2kb 的 Moment.js 兼容时间操作库</p>
+<h4 id="OPTIONS"><a href="#OPTIONS" class="headerlink" title="OPTIONS"></a>OPTIONS</h4><p><a href="http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/" target="_blank" rel="external">Redux not Dead Yet</a><br>React 新特性 Redux 死亡传言四起，But Redux 还能再战</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://reactjs.org/blog/2018/03/27/update-on-async-r
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十六期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/03/28/monthly-issue-26/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/03/28/monthly-issue-26/</id>
+    <published>2018-03-28T06:52:00.000Z</published>
+    <updated>2019-08-21T04:58:34.090Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Topic"><a href="#Topic" class="headerlink" title="Topic"></a>Topic</h4><p><a href="https://github.com/tc39/proposal-flatMap/pull/56" target="_blank" rel="external">Could Array.prototype.flatten Become ‘smoosh’?</a><br>前几周，TC39成员 Michael Ficarra 建议将 <strong>flatten</strong> 方法重命名为 <strong>smoosh</strong>，引发了一场社区撕逼， André Staltz （Cycle.js 作者）还创建了一个 <a href="https://github.com/staltz/prevent-smoosh" target="_blank" rel="external">https://github.com/staltz/prevent-smoosh</a> github repo 抵制，各位看客可以吃瓜坐观(￣▽￣)</p>
+<a id="more"></a>
+<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html" target="_blank" rel="external">Beyond React 16</a><br>React 16 预览新特性提前揭露，性能提升老大了</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/alibaba/G3D" target="_blank" rel="external">G3D</a><br>阿里出品的 3D WebGL 引擎</p>
+<p><a href="https://github.com/propelml/propel" target="_blank" rel="external">Propel</a><br>JS 版本科学计算库</p>
+<p><a href="https://github.com/jamiebuilds/react-loadable" target="_blank" rel="external">React Loadable</a><br>React 异步 Code Splitting 方案</p>
+<p><a href="https://github.com/Meituan-Dianping/mpvue" target="_blank" rel="external">Mpvue</a><br>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://medium.com/@tomastrajan/how-to-speed-up-continuous-integration-build-with-new-npm-ci-and-package-lock-json-7647f91751a" target="_blank" rel="external">Speed Up Continuous Integration Build With New NPM CI And package-lock.json</a><br>试试新的 NPM 特性</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Topic&quot;&gt;&lt;a href=&quot;#Topic&quot; class=&quot;headerlink&quot; title=&quot;Topic&quot;&gt;&lt;/a&gt;Topic&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tc39/proposal-flatMap/pull/56&quot;&gt;Could Array.prototype.flatten Become ‘smoosh’?&lt;/a&gt;&lt;br&gt;前几周，TC39成员 Michael Ficarra 建议将 &lt;strong&gt;flatten&lt;/strong&gt; 方法重命名为 &lt;strong&gt;smoosh&lt;/strong&gt;，引发了一场社区撕逼， André Staltz （Cycle.js 作者）还创建了一个 &lt;a href=&quot;https://github.com/staltz/prevent-smoosh&quot;&gt;https://github.com/staltz/prevent-smoosh&lt;/a&gt; github repo 抵制，各位看客可以吃瓜坐观(￣▽￣)&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十五期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/03/02/monthly-issue-25/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/03/02/monthly-issue-25/</id>
+    <published>2018-03-02T07:04:57.000Z</published>
+    <updated>2019-08-21T04:58:34.090Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4" target="_blank" rel="external">Webpack 4 Released!</a><br>新特性：更快的编译，默认配置模式，再见 CommonsChunkPlugin</p>
+<p><a href="https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88" target="_blank" rel="external">React Native Relicense</a><br>喜大普奔，FB 终于将React Native也转向 MIT 许可了</p>
+<a id="more"></a>
+<p><a href="https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b" target="_blank" rel="external">React 16.3 新特性介绍</a><br>React 16 将引入 Context API，更换新的生命周期方法</p>
+<p><a href="https://www.infoq.com/news/2018/02/tc39-finalizes-es2018" target="_blank" rel="external">ES2018 定案</a><br>ES2018 近日最后一个特性定案，预计6月发布新版本</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="http://www.hygen.io/" target="_blank" rel="external">Hygen</a><br>一个可扩展的样板代码文件生成器</p>
+<p><a href="https://github.com/a-jie/Proton" target="_blank" rel="external">Proton</a><br>一款 JS 粒子引擎</p>
+<p><a href="https://github.com/stuyam/pressure" target="_blank" rel="external">Pressure.js</a><br>👇💥 JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9" target="_blank" rel="external">Function as Child Components</a><br>试试把用函数作为组件的 Children 吧</p>
+<p><a href="https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578" target="_blank" rel="external">React的 Inline 函数与性能</a><br>反思在 React 中过早的不成熟性能优化</p>
+<p><a href="https://developers.google.com/web/fundamentals/performance/webpack/" target="_blank" rel="external">Web 性能优化之 Webpack 工具指南</a><br>前端优化的主要方面都有介绍</p>
+<p><a href="https://mp.weixin.qq.com/s/jTSws4W-PDxVgDvePvMO2g" target="_blank" rel="external">揭秘前端字符的戏精之路</a><br>有意思的 Unicode 字符</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-4-released-today-6cdb994702d4&quot;&gt;Webpack 4 Released!&lt;/a&gt;&lt;br&gt;新特性：更快的编译，默认配置模式，再见 CommonsChunkPlugin&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88&quot;&gt;React Native Relicense&lt;/a&gt;&lt;br&gt;喜大普奔，FB 终于将React Native也转向 MIT 许可了&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十四期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/02/26/monthly-issue-24/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/02/26/monthly-issue-24/</id>
+    <published>2018-02-26T07:04:57.000Z</published>
+    <updated>2019-08-21T04:58:34.090Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><p><a href="https://juejin.im/post/5a69efda6fb9a01cb316617d" target="_blank" rel="external">《React 学习之道》The Road to learn React (简体中文版)</a><br>号外，号外，我们 TW 一线工程师联合翻译的新书，大家快奔走相告，帮忙推介</p>
+<a id="more"></a>
+<p><a href="http://blog.npmjs.org/post/168978377570/new-package-moniker-rules" target="_blank" rel="external">New Package Moniker rules</a><br>Npm 官方发布新策略，再也不能发布 reactnative，react_native，react.native 包咯</p>
+<p><a href="https://twitter.com/jdalton/status/951250082791227392" target="_blank" rel="external">Webpack 4 will configless by default</a><br>Webpack 将迎来新版本咯，受到 Parcel 启发，会使用一套默认配置</p>
+<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><p><a href="https://github.com/hyperapp/hyperapp" target="_blank" rel="external">HyberApp</a><br>比Vue还轻量级，1kb的前端应用框架</p>
+<p><a href="https://github.com/sdras/object-explorer" target="_blank" rel="external">Object Explorer</a><br>便利的询问式查询 学习方式获取 object 方法</p>
+<p><a href="https://github.com/clauderic/react-sortable-hoc" target="_blank" rel="external">React Sortable (HOC)</a><br>灰常好用的排序列表组件，动效好，移动端友好</p>
+<p><a href="https://github.com/bvaughn/react-virtualized" target="_blank" rel="external">React Virtualized</a><br>Web 版本的 LivtView，还是官方推荐，用起来，用起来</p>
+<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><p><a href="http://boardgame.io/#/" target="_blank" rel="external">Boardgame</a><br>全栈小游戏解决方案</p>
+<p><a href="https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7" target="_blank" rel="external">The most popular JavaScript links of 2017</a><br>2017 前端 JS 精华集锦</p>
+<p><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/" target="_blank" rel="external">Tips to learn React + Redux in 2018</a><br>全方面学习 React + Redux 生态圈</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://juejin.im/post/5a69efda6fb9a01cb316617d&quot;&gt;《React 学习之道》The Road to learn React (简体中文版)&lt;/a&gt;&lt;br&gt;号外，号外，我们 TW 一线工程师联合翻译的新书，大家快奔走相告，帮忙推介&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十三期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/26/monthly-issue-23/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/26/monthly-issue-23/</id>
+    <published>2017-12-26T08:52:57.000Z</published>
+    <updated>2019-08-21T04:58:34.089Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><p><a href="https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa" target="_blank" rel="external">2017 JS 现状统计</a><br>回顾一年，看看你的有没有落伍，:-D</p>
+<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><p><a href="https://alfred-sun.github.io/blog/2014/12/24/scrollbar-customized-with-css-style/" target="_blank" rel="external">定制滚动条</a><br>冷知识，如何定制滚动条, 万一将来用得到呢</p>
+<p><a href="https://reactjs.org/docs/fragments.html" target="_blank" rel="external">Fragments</a><br>React 新特性，不需要为了添加一个列表展示的组件包裹一个不必要的节点啦</p>
+<p><a href="https://malcoded.com/posts/angular-top-2017" target="_blank" rel="external">Angular Top 50</a><br>Angular 2017 知识点汇总</p>
+<a id="more"></a>
+<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><p><a href="https://parceljs.org/" target="_blank" rel="external">Parcel</a><br>零配置，快如⚡️的打包工具</p>
+<p><a href="https://github.com/wekan/wekan" target="_blank" rel="external">Wekan</a><br>trello 开源复刻版</p>
+<h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><p><a href="http://2ality.com/2017/12/alternate-this.html" target="_blank" rel="external">多方面理解 JS 中的 this</a><br>基础知识，mark备份</p>
+<p><a href="https://github.com/Chalarangelo/30-seconds-of-code#readme" target="_blank" rel="external">30 seconds of code</a><br>Js snippets 速查，必备工具包</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa&quot;&gt;2017 JS 现状统计&lt;/a&gt;&lt;br&gt;回顾一年，看看你的有没有落伍，:-D&lt;/p&gt;
+&lt;h4 id=&quot;Tech&quot;&gt;&lt;a href=&quot;#Tech&quot; class=&quot;headerlink&quot; title=&quot;Tech&quot;&gt;&lt;/a&gt;Tech&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://alfred-sun.github.io/blog/2014/12/24/scrollbar-customized-with-css-style/&quot;&gt;定制滚动条&lt;/a&gt;&lt;br&gt;冷知识，如何定制滚动条, 万一将来用得到呢&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reactjs.org/docs/fragments.html&quot;&gt;Fragments&lt;/a&gt;&lt;br&gt;React 新特性，不需要为了添加一个列表展示的组件包裹一个不必要的节点啦&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://malcoded.com/posts/angular-top-2017&quot;&gt;Angular Top 50&lt;/a&gt;&lt;br&gt;Angular 2017 知识点汇总&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十二期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/01/monthly-issue-22/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/01/monthly-issue-22/</id>
+    <published>2017-12-01T05:08:06.000Z</published>
+    <updated>2019-08-21T04:58:34.089Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md" target="_blank" rel="external">Rxjs Lettable Operators</a><br>Rxjs API 改动</p>
+<p><a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced" target="_blank" rel="external">Angular 5.0 Release</a><br>Angular 5.0于11月2日发布</p>
+<p><a href="https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/" target="_blank" rel="external">Typescript 2.6</a><br>10月31日 Typescript 2.6发布</p>
+<a id="more"></a>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/GoogleChromeLabs/comlink" target="_blank" rel="external">Comlink</a><br>一个轻量级兼容性跨窗口通信（postMessage）工具</p>
+<p><a href="https://github.com/smooth-code/svgr" target="_blank" rel="external">svgr</a><br>可以轻松把SVG转换成React组件，支持命令行和webpack方式</p>
+<p><a href="https://github.com/antvis/g2" target="_blank" rel="external">G2</a><br>阿里推出的一款图表库（可视化图形语法），也有其他UI框架的衍生版</p>
+<p><a href="https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/" target="_blank" rel="external">Nest.js</a><br>使用Typescript开发Nodejs</p>
+<p><a href="https://github.com/ip-num/ip-num" target="_blank" rel="external">ip-num</a><br>一个方便处理IPv4,IPv6，ASN字符串操作的工具库</p>
+<h4 id="BASICS"><a href="#BASICS" class="headerlink" title="BASICS"></a>BASICS</h4><p><a href="http://2ality.com/2017/11/currying-in-js.html" target="_blank" rel="external">Currying in JS</a><br>反对JS柯里化，喜欢FP的同学可以进来辩一辩</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md&quot;&gt;Rxjs Lettable Operators&lt;/a&gt;&lt;br&gt;Rxjs API 改动&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced&quot;&gt;Angular 5.0 Release&lt;/a&gt;&lt;br&gt;Angular 5.0于11月2日发布&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/&quot;&gt;Typescript 2.6&lt;/a&gt;&lt;br&gt;10月31日 Typescript 2.6发布&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十一期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/</id>
+    <published>2017-10-17T03:09:06.000Z</published>
+    <updated>2019-08-21T04:58:34.089Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://code.facebook.com/posts/274518539716230" target="_blank" rel="external">Yarn Release</a><br>Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性</p>
+<p><a href="https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html" target="_blank" rel="external">React 16 Release</a><br>React 16发布了，性能提升，并且–Lisense已经改为MIT</p>
+<p><a href="http://coffeescript.org/announcing-coffeescript-2/" target="_blank" rel="external">CoffeeScript 2</a><br>CoffeeScript也支持ES6特性了</p>
+<a id="more"></a>
+<p><a href="https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08" target="_blank" rel="external">Upcoming TypeScript Changes in Vue 2.5</a><br>Vue 2.5即将官方支持Typescript</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/renatorib/react-powerplug" target="_blank" rel="external">React PowerPlug</a><br>简单包装即可赋予你的无状态组件状态</p>
+<p><a href="https://element-angular.faas.ele.me/guide/install" target="_blank" rel="external">Element for Angular</a><br>Element UI出Angular Version了</p>
+<p><a href="https://github.com/graphcool/graphcool" target="_blank" rel="external">Graphcool</a><br>基于GraphQL的后端开发框架</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://code.facebook.com/posts/274518539716230&quot;&gt;Yarn Release&lt;/a&gt;&lt;br&gt;Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html&quot;&gt;React 16 Release&lt;/a&gt;&lt;br&gt;React 16发布了，性能提升，并且–Lisense已经改为MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://coffeescript.org/announcing-coffeescript-2/&quot;&gt;CoffeeScript 2&lt;/a&gt;&lt;br&gt;CoffeeScript也支持ES6特性了&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/</id>
+    <published>2017-08-30T01:16:43.000Z</published>
+    <updated>2019-08-21T04:58:34.089Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry" target="_blank" rel="external">NPM 恶意软件事件</a><br>7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击</p>
+<p><a href="https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15" target="_blank" rel="external">Webpack 获得Mozila基金$125,000资助</a><br>Mozilla 助力webpack，着重推动Webassembly发展<br><a id="more"></a></p>
+<p><a href="https://medium.com/the-node-js-collection/node-options-has-landed-in-8-x-5fba57af703d" target="_blank" rel="external">NODE_OPTIONS引入Node 8.x</a><br>终于可以类似Java配置NODE运行参数了</p>
+<p><a href="https://thenewstack.io/node-js-forked-complaints-repeated-harassment/" target="_blank" rel="external">Ayo</a><br>NODE社区再次分裂，Ayo</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/standard-things/esm" target="_blank" rel="external">@std/esm</a><br>ES Module Polyfils in Nodejs</p>
+<p><a href="https://github.com/NG-ZORRO/ng-zorro-antd" target="_blank" rel="external">NG-ZORRO</a><br>Ant-Design Angular v4 UI库</p>
+<p><a href="https://github.com/GoogleChrome/puppeteer" target="_blank" rel="external">Puppeteer</a><br>Headless Chrome node API, 官方团队倾力打造</p>
+<p><a href="http://getatmo.com/" target="_blank" rel="external">Atmo</a><br>轻巧的GUI Mock Server</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://medium.com/the-node-js-collection/timing-is-everything-6d43fc9fd416" target="_blank" rel="external">Timing is Everything</a><br>在NodeJS程序中更加细粒度的性能分析</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry&quot;&gt;NPM 恶意软件事件&lt;/a&gt;&lt;br&gt;7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15&quot;&gt;Webpack 获得Mozila基金$125,000资助&lt;/a&gt;&lt;br&gt;Mozilla 助力webpack，着重推动Webassembly发展&lt;br&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+</feed>

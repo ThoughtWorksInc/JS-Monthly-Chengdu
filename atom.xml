@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-08-21T05:33:17.406Z</updated>
+  <updated>2019-08-22T05:08:09.872Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -20,11 +20,12 @@
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/08/21/monthly-issue-39/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/08/21/monthly-issue-39/</id>
     <published>2019-08-20T16:00:00.000Z</published>
-    <updated>2019-08-21T05:33:17.406Z</updated>
+    <updated>2019-08-22T05:08:09.872Z</updated>
     
     <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://github.com/QiShaoXuan/css_tricks" target="_blank" rel="external">Css Tricks</a><br>提供一些常用的 css 样式, 非常的 <code>trick</code> : )</p>
 <p><a href="https://github.com/nostalgic-css/NES.css" target="_blank" rel="external">NES.css</a><br>非常炫酷 红白机风格的 css 库</p>
 <p><a href="https://codepen.io/ste-vg/pen/oKYjKV" target="_blank" rel="external">Running Horse</a><br>马儿奔跑的动画, 纯 CSS 编写 , 套马的汉子你威武雄壮</p>
+<a id="more"></a>
 <h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://github.com/facebook/react/releases" target="_blank" rel="external">React 16.9.0 Released</a><br>React 16.9.0 发布, 废弃了 <code>UNSAFE_*</code> 的生命周期 , 增加 <code>&lt;React.Profiler&gt;</code> 组件用于调试性能</p>
 <p><a href="https://5d403395cd145c0008eea971--ant-design.netlify.com/components/form-cn/" target="_blank" rel="external">Ant Design 4.0.0 Prepare</a><br>Ant Design 作为最受欢迎的组件库, <code>Form</code> 组件 一直饱受诟病, 使用复杂, 在 <code>4.0.0-alpha.0</code>, 中 官方对其完全重构, 想看看这全新的 <code>Form</code> 组件吗?</p>
 <p><a href="https://2019.js13kgames.com/" target="_blank" rel="external">Js13kbGames</a><br>HTML5 游戏开发者的趣味比赛, 规定选手开发的游戏大小最多不能超过 <code>13kb</code></p>
@@ -35,7 +36,9 @@
     
     <summary type="html">
     
-      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/QiShaoXuan/css_tricks&quot; target=&quot;_blank&quot;
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/QiShaoXuan/css_tricks&quot;&gt;Css Tricks&lt;/a&gt;&lt;br&gt;提供一些常用的 css 样式, 非常的 &lt;code&gt;trick&lt;/code&gt; : )&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nostalgic-css/NES.css&quot;&gt;NES.css&lt;/a&gt;&lt;br&gt;非常炫酷 红白机风格的 css 库&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/ste-vg/pen/oKYjKV&quot;&gt;Running Horse&lt;/a&gt;&lt;br&gt;马儿奔跑的动画, 纯 CSS 编写 , 套马的汉子你威武雄壮&lt;/p&gt;
     
     </summary>
     

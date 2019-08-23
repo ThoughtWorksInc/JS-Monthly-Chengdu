@@ -33,7 +33,7 @@ HTML5 游戏开发者的趣味比赛, 规定选手开发的游戏大小最多不
 
 #### REPO
 
-[office-ui-fabric-react](https://github.com/kefranabg/readme-md-generator)
+[office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)
 微软 网页版 office 的 `React` UI 组件库.
 
 [svg2png](https://github.com/domenic/svg2png)

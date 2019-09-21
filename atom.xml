@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-09-21T09:15:01.482Z</updated>
+  <updated>2019-09-21T09:25:52.903Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -20,23 +20,23 @@
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/09/21/monthly-issue-40/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/09/21/monthly-issue-40/</id>
     <published>2019-09-20T16:00:00.000Z</published>
-    <updated>2019-09-21T09:15:01.482Z</updated>
+    <updated>2019-09-21T09:25:52.903Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://www.cssmatic.com/box-shadow" target="_blank" rel="external">CSS tools</a><br>提供一些使用的 css 工具, 如阴影,圆角生成器 线性渐变生成器等</p>
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://www.cssmatic.com/box-shadow" target="_blank" rel="external">CSS tools</a><br>提供一些实用的 css 工具, 如阴影,圆角生成器 线性渐变生成器等</p>
 <p><a href="https://tool.imiku.me/douyin_text/" target="_blank" rel="external">Douyin Text</a><br>抖音样式文字生成</p>
 <p><a href="http://flexboxfroggy.com/" target="_blank" rel="external">Flexbox Froggy</a><br>快乐的一只小青蛙, 教你学习 flex 布局</p>
 <a id="more"></a>
 <h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/" target="_blank" rel="external">TypeScript 3.6 Released</a><br>TypeScript 3.6 发布, 让我们来一起看看有哪些改动</p>
-<p><a href="https://zhuanlan.zhihu.com/p/81954538" target="_blank" rel="external">React-Animation</a><br>用React Hooks与Web Animation API实现动效组件</p>
-<p><a href="https://javascript-game.firebaseapp.com/#/" target="_blank" rel="external">javascript-game</a><br>看图猜 js 框架的小游戏, 除了 <code>RVE</code> 你还认识几个? 是英雄就过100 关!</p>
+<p><a href="https://zhuanlan.zhihu.com/p/81954538" target="_blank" rel="external">React Animation</a><br>用React Hooks与Web Animation API实现动效组件</p>
+<p><a href="https://javascript-game.firebaseapp.com/#/" target="_blank" rel="external">Javascript game</a><br>看图猜 js 框架的小游戏, 除了 <code>RVE</code> 你还认识几个? 是英雄就过100 关!</p>
 <h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/nexe/nexe" target="_blank" rel="external">Nexe</a><br>一个可执行的 Node 二进制文件编译工具😏</p>
-<p><a href="https://github.com/sdras/awesome-actions" target="_blank" rel="external">awesome-actions</a><br>GITHUB 免费的 CI CD 一大亮点就是 actions 之间的复用, 顾名思义, 这个仓库精选了一些实用的 action</p>
-<p><a href="https://github.com/didi/chameleon" target="_blank" rel="external">chameleon</a><br>滴滴出品的 一套代码 web端,安卓、IOS端,微信小程序,百度小程序,QQ小程序,头条小程序,支付宝小程序，一端所见即多端所见 的框架 最近发布了 1.0.0 正式版。</p>
+<p><a href="https://github.com/sdras/awesome-actions" target="_blank" rel="external">Awesome Actions</a><br>GITHUB 免费的 CI CD 一大亮点就是 actions 之间的复用, 顾名思义, 这个仓库精选了一些实用的 action</p>
+<p><a href="https://github.com/didi/chameleon" target="_blank" rel="external">Chameleon</a><br>滴滴出品的 一套代码 web端,安卓、IOS端,微信小程序,百度小程序,QQ小程序,头条小程序,支付宝小程序，一端所见即多端所见 的框架 最近发布了 1.0.0 正式版。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.cssmatic.com/box-shadow&quot;&gt;CSS tools&lt;/a&gt;&lt;br&gt;提供一些使用的 css 工具, 如阴影,圆角生成器 线性渐变生成器等&lt;/p&gt;
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.cssmatic.com/box-shadow&quot;&gt;CSS tools&lt;/a&gt;&lt;br&gt;提供一些实用的 css 工具, 如阴影,圆角生成器 线性渐变生成器等&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://tool.imiku.me/douyin_text/&quot;&gt;Douyin Text&lt;/a&gt;&lt;br&gt;抖音样式文字生成&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;&lt;br&gt;快乐的一只小青蛙, 教你学习 flex 布局&lt;/p&gt;
     

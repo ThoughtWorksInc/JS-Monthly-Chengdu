@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-09-21T09:25:52.903Z</updated>
+  <updated>2019-10-22T09:06:22.909Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -16,11 +16,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JavaScript Monthly 第四十一期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/10/22/monthly-issue-41/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/10/22/monthly-issue-41/</id>
+    <published>2019-10-21T16:00:00.000Z</published>
+    <updated>2019-10-22T09:06:22.909Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://github.com/sdras/cssgridgenerator" target="_blank" rel="external">Css Grid Generator</a><br>嫌 grid 属性不好记, 直接拖拽生成 Grid布局代码</p>
+<p><a href="https://github.com/chokcoco/iCSS" target="_blank" rel="external">I Css</a><br>国服第一切图仔教你写 css</p>
+<p><a href="https://github.com/chokcoco/magicCss" target="_blank" rel="external">Magic Css</a><br>单标签实现各类图形,强到爆炸</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://github.com/alibaba/pont" target="_blank" rel="external">Pont</a><br>后端一套接口定义 前端一套TypeScript定义, 开发中后端接口频繁变动, 然后前端去修改对应的 typing, 非常麻烦<br>Pont 把 swagger、rap、dip 等多种接口文档平台，转换成 Pont 元数据。Pont 利用接口元数据，可以高度定制化生成前端接口层代码，接口 mock 平台和接口测试平台。<br>还支持 vscode 插件, 非常好用</p>
+<p><a href="https://github.com/testing-library/react-hooks-testing-library" target="_blank" rel="external">React Hooks Testing Library</a><br>更方便的 react hook 测试工具 可配合 jest 等使用</p>
+<p><a href="https://www.apollographql.com/docs/react/api/react-hooks/#gatsby-focus-wrapper" target="_blank" rel="external">Apollo React Hooks</a><br>react apollo 支持 hooks 版本的 query 啦</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/ant-mini-program/mini-antui" target="_blank" rel="external">mini-antui</a><br>支付宝小程序官方组件库</p>
+<p><a href="https://github.com/mrvautin/adminMongo" target="_blank" rel="external">admin mongo</a><br>一款颜值颇高的 mongodb GUI</p>
+<p><a href="https://github.com/ant-move/Antmove" target="_blank" rel="external">Antmove</a><br>编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sdras/cssgridgenerator&quot;&gt;Css Grid Generator&lt;/a&gt;&lt;br&gt;嫌 grid 属性不好记, 直接拖拽生成 Grid布局代码&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/chokcoco/iCSS&quot;&gt;I Css&lt;/a&gt;&lt;br&gt;国服第一切图仔教你写 css&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/chokcoco/magicCss&quot;&gt;Magic Css&lt;/a&gt;&lt;br&gt;单标签实现各类图形,强到爆炸&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript Monthly 第四十期</title>
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/09/21/monthly-issue-40/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/09/21/monthly-issue-40/</id>
     <published>2019-09-20T16:00:00.000Z</published>
-    <updated>2019-09-21T09:25:52.903Z</updated>
+    <updated>2019-09-21T09:26:09.210Z</updated>
     
     <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://www.cssmatic.com/box-shadow" target="_blank" rel="external">CSS tools</a><br>提供一些实用的 css 工具, 如阴影,圆角生成器 线性渐变生成器等</p>
 <p><a href="https://tool.imiku.me/douyin_text/" target="_blank" rel="external">Douyin Text</a><br>抖音样式文字生成</p>
@@ -28,7 +62,7 @@
 <a id="more"></a>
 <h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/" target="_blank" rel="external">TypeScript 3.6 Released</a><br>TypeScript 3.6 发布, 让我们来一起看看有哪些改动</p>
 <p><a href="https://zhuanlan.zhihu.com/p/81954538" target="_blank" rel="external">React Animation</a><br>用React Hooks与Web Animation API实现动效组件</p>
-<p><a href="https://javascript-game.firebaseapp.com/#/" target="_blank" rel="external">Javascript game</a><br>看图猜 js 框架的小游戏, 除了 <code>RVE</code> 你还认识几个? 是英雄就过100 关!</p>
+<p><a href="https://javascript-game.firebaseapp.com/#/" target="_blank" rel="external">Javascript Game</a><br>看图猜 js 框架的小游戏, 除了 <code>RVE</code> 你还认识几个? 是英雄就过100 关!</p>
 <h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/nexe/nexe" target="_blank" rel="external">Nexe</a><br>一个可执行的 Node 二进制文件编译工具😏</p>
 <p><a href="https://github.com/sdras/awesome-actions" target="_blank" rel="external">Awesome Actions</a><br>GITHUB 免费的 CI CD 一大亮点就是 actions 之间的复用, 顾名思义, 这个仓库精选了一些实用的 action</p>
 <p><a href="https://github.com/didi/chameleon" target="_blank" rel="external">Chameleon</a><br>滴滴出品的 一套代码 web端,安卓、IOS端,微信小程序,百度小程序,QQ小程序,头条小程序,支付宝小程序，一端所见即多端所见 的框架 最近发布了 1.0.0 正式版。</p>
@@ -643,38 +677,6 @@
       &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md&quot;&gt;Rxjs Lettable Operators&lt;/a&gt;&lt;br&gt;Rxjs API 改动&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced&quot;&gt;Angular 5.0 Release&lt;/a&gt;&lt;br&gt;Angular 5.0于11月2日发布&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/&quot;&gt;Typescript 2.6&lt;/a&gt;&lt;br&gt;10月31日 Typescript 2.6发布&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第二十一期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/</id>
-    <published>2017-10-17T03:09:06.000Z</published>
-    <updated>2019-08-21T04:58:34.089Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://code.facebook.com/posts/274518539716230" target="_blank" rel="external">Yarn Release</a><br>Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性</p>
-<p><a href="https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html" target="_blank" rel="external">React 16 Release</a><br>React 16发布了，性能提升，并且–Lisense已经改为MIT</p>
-<p><a href="http://coffeescript.org/announcing-coffeescript-2/" target="_blank" rel="external">CoffeeScript 2</a><br>CoffeeScript也支持ES6特性了</p>
-<a id="more"></a>
-<p><a href="https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08" target="_blank" rel="external">Upcoming TypeScript Changes in Vue 2.5</a><br>Vue 2.5即将官方支持Typescript</p>
-<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/renatorib/react-powerplug" target="_blank" rel="external">React PowerPlug</a><br>简单包装即可赋予你的无状态组件状态</p>
-<p><a href="https://element-angular.faas.ele.me/guide/install" target="_blank" rel="external">Element for Angular</a><br>Element UI出Angular Version了</p>
-<p><a href="https://github.com/graphcool/graphcool" target="_blank" rel="external">Graphcool</a><br>基于GraphQL的后端开发框架</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://code.facebook.com/posts/274518539716230&quot;&gt;Yarn Release&lt;/a&gt;&lt;br&gt;Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html&quot;&gt;React 16 Release&lt;/a&gt;&lt;br&gt;React 16发布了，性能提升，并且–Lisense已经改为MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://coffeescript.org/announcing-coffeescript-2/&quot;&gt;CoffeeScript 2&lt;/a&gt;&lt;br&gt;CoffeeScript也支持ES6特性了&lt;/p&gt;
     
     </summary>
     

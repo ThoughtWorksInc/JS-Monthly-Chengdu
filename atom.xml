@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-10-22T09:06:22.909Z</updated>
+  <updated>2019-12-29T10:16:54.036Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第四十二期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/12/29/monthly-issue-42/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/12/29/monthly-issue-42/</id>
+    <published>2019-12-28T16:00:00.000Z</published>
+    <updated>2019-12-29T10:16:54.036Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://github.com/the1812/Bilibili-Evolved" target="_blank" rel="external">Bilibili enhance</a><br>强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持</p>
+<p><a href="https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/" target="_blank" rel="external">Css grid repeat function</a><br>张鑫旭大神讲解 css grid 布局中 repeat 函数 的应用</p>
+<p><a href="https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/" target="_blank" rel="external">Css transfer animation</a><br>使用 css clip-path 属性 实现各种转场动画, 梦回 flash</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://docs.google.com/presentation/d/1r0HcS4baHy2c106DsZ4jA7Zt0R9u2MnRmmKIvAVuf1o/edit#slide=id.g7420077614_0_510" target="_blank" rel="external">Design Principles of Vue 3.0</a><br>尤大大 分享 Vue 3.0 的设计原则</p>
+<p><a href="https://github.com/LingDong-/wenyan-lang" target="_blank" rel="external">A wenyan language</a><br>一个文言文編程語言, 㚢甚吊,令尊知否？</p>
+<p><a href="https://zhuanlan.zhihu.com/p/98955770" target="_blank" rel="external">How to implement useAxios</a><br>使用 react hook 的方式, 从 0 到 1 实现 useAxios, 感觉不错, 所以我用 swr :)</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/wechat-miniprogram/kbone" target="_blank" rel="external">kbone</a><br>Web 与小程序同构解决方案</p>
+<p><a href="https://github.com/blakeembrey/change-case" target="_blank" rel="external">change-case</a><br>一个字符串转换库, camelCase =&gt; camel-case =&gt; CAMEL_CASE</p>
+<p><a href="https://github.com/microsoft/vscode-extension-samples" target="_blank" rel="external">vscode-extension-samples</a><br>不知道怎么写 vscode 的插件, 这里有一些官方的例子, 包教不包会</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/the1812/Bilibili-Evolved&quot;&gt;Bilibili enhance&lt;/a&gt;&lt;br&gt;强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/&quot;&gt;Css grid repeat function&lt;/a&gt;&lt;br&gt;张鑫旭大神讲解 css grid 布局中 repeat 函数 的应用&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/&quot;&gt;Css transfer animation&lt;/a&gt;&lt;br&gt;使用 css clip-path 属性 实现各种转场动画, 梦回 flash&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第四十一期</title>
@@ -643,40 +677,6 @@
 &lt;h4 id=&quot;Tech&quot;&gt;&lt;a href=&quot;#Tech&quot; class=&quot;headerlink&quot; title=&quot;Tech&quot;&gt;&lt;/a&gt;Tech&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://alfred-sun.github.io/blog/2014/12/24/scrollbar-customized-with-css-style/&quot;&gt;定制滚动条&lt;/a&gt;&lt;br&gt;冷知识，如何定制滚动条, 万一将来用得到呢&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://reactjs.org/docs/fragments.html&quot;&gt;Fragments&lt;/a&gt;&lt;br&gt;React 新特性，不需要为了添加一个列表展示的组件包裹一个不必要的节点啦&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://malcoded.com/posts/angular-top-2017&quot;&gt;Angular Top 50&lt;/a&gt;&lt;br&gt;Angular 2017 知识点汇总&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第二十二期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/01/monthly-issue-22/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/12/01/monthly-issue-22/</id>
-    <published>2017-12-01T05:08:06.000Z</published>
-    <updated>2019-08-21T04:58:34.089Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md" target="_blank" rel="external">Rxjs Lettable Operators</a><br>Rxjs API 改动</p>
-<p><a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced" target="_blank" rel="external">Angular 5.0 Release</a><br>Angular 5.0于11月2日发布</p>
-<p><a href="https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/" target="_blank" rel="external">Typescript 2.6</a><br>10月31日 Typescript 2.6发布</p>
-<a id="more"></a>
-<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/GoogleChromeLabs/comlink" target="_blank" rel="external">Comlink</a><br>一个轻量级兼容性跨窗口通信（postMessage）工具</p>
-<p><a href="https://github.com/smooth-code/svgr" target="_blank" rel="external">svgr</a><br>可以轻松把SVG转换成React组件，支持命令行和webpack方式</p>
-<p><a href="https://github.com/antvis/g2" target="_blank" rel="external">G2</a><br>阿里推出的一款图表库（可视化图形语法），也有其他UI框架的衍生版</p>
-<p><a href="https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/" target="_blank" rel="external">Nest.js</a><br>使用Typescript开发Nodejs</p>
-<p><a href="https://github.com/ip-num/ip-num" target="_blank" rel="external">ip-num</a><br>一个方便处理IPv4,IPv6，ASN字符串操作的工具库</p>
-<h4 id="BASICS"><a href="#BASICS" class="headerlink" title="BASICS"></a>BASICS</h4><p><a href="http://2ality.com/2017/11/currying-in-js.html" target="_blank" rel="external">Currying in JS</a><br>反对JS柯里化，喜欢FP的同学可以进来辩一辩</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md&quot;&gt;Rxjs Lettable Operators&lt;/a&gt;&lt;br&gt;Rxjs API 改动&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced&quot;&gt;Angular 5.0 Release&lt;/a&gt;&lt;br&gt;Angular 5.0于11月2日发布&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/&quot;&gt;Typescript 2.6&lt;/a&gt;&lt;br&gt;10月31日 Typescript 2.6发布&lt;/p&gt;
     
     </summary>
     

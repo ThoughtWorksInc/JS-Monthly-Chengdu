@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2020-01-31T06:00:12.599Z</updated>
+  <updated>2020-02-28T03:26:55.220Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第四十四期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2020/02/28/monthly-issue-44/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2020/02/28/monthly-issue-44/</id>
+    <published>2020-02-27T16:00:00.000Z</published>
+    <updated>2020-02-28T03:26:55.220Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://github.com/sylvainpolletvillard/postcss-grid-kiss" target="_blank" rel="external">postcss-grid-kiss</a><br>通过字符画生成grid 布局 css， 给跪了orz</p>
+<p><a href="https://www.imkun.dev/archives/CSS3%E5%AA%92%E4%BD%93%E6%9F%A5%E8%AF%A2-Dark%E6%A8%A1%E5%BC%8F" target="_blank" rel="external">css3 暗黑模式媒体查询器</a><br>白天不懂夜的黑，方便实现手机dark模式适配</p>
+<p><a href="http://cssgridgarden.com/" target="_blank" rel="external">cssgridgarden</a><br>有趣的grid布局小游戏, 通关后可以学习到常用的grid布局技巧</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://zhuanlan.zhihu.com/p/47407398" target="_blank" rel="external">图解浏览器的基本工作原理</a><br>图文并茂的介绍了浏览器相关的原理，比如经典的 “输入URL 发生了啥”, 文章较多干货</p>
+<p><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-8/" target="_blank" rel="external">typescript 发布 3.8.0</a><br>快来看看有哪些新特性吧</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://github.com/lijinke666/react-music-player" target="_blank" rel="external">react-jinke-music-player</a><br>一个小巧实用的 响应式 React 音乐播放器组件</p>
+<p><a href="https://hooks.umijs.org/zh-CN" target="_blank" rel="external">@umijs/hooks</a><br>乌米提供的一些高级react hooks, 非常实用</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sylvainpolletvillard/postcss-grid-kiss&quot;&gt;postcss-grid-kiss&lt;/a&gt;&lt;br&gt;通过字符画生成grid 布局 css， 给跪了orz&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.imkun.dev/archives/CSS3%E5%AA%92%E4%BD%93%E6%9F%A5%E8%AF%A2-Dark%E6%A8%A1%E5%BC%8F&quot;&gt;css3 暗黑模式媒体查询器&lt;/a&gt;&lt;br&gt;白天不懂夜的黑，方便实现手机dark模式适配&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cssgridgarden.com/&quot;&gt;cssgridgarden&lt;/a&gt;&lt;br&gt;有趣的grid布局小游戏, 通关后可以学习到常用的grid布局技巧&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第四十三期</title>
@@ -644,39 +676,6 @@
     
       &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-4-released-today-6cdb994702d4&quot;&gt;Webpack 4 Released!&lt;/a&gt;&lt;br&gt;新特性：更快的编译，默认配置模式，再见 CommonsChunkPlugin&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88&quot;&gt;React Native Relicense&lt;/a&gt;&lt;br&gt;喜大普奔，FB 终于将React Native也转向 MIT 许可了&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第二十四期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/02/26/monthly-issue-24/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/02/26/monthly-issue-24/</id>
-    <published>2018-02-26T07:04:57.000Z</published>
-    <updated>2019-08-21T04:58:34.090Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><p><a href="https://juejin.im/post/5a69efda6fb9a01cb316617d" target="_blank" rel="external">《React 学习之道》The Road to learn React (简体中文版)</a><br>号外，号外，我们 TW 一线工程师联合翻译的新书，大家快奔走相告，帮忙推介</p>
-<a id="more"></a>
-<p><a href="http://blog.npmjs.org/post/168978377570/new-package-moniker-rules" target="_blank" rel="external">New Package Moniker rules</a><br>Npm 官方发布新策略，再也不能发布 reactnative，react_native，react.native 包咯</p>
-<p><a href="https://twitter.com/jdalton/status/951250082791227392" target="_blank" rel="external">Webpack 4 will configless by default</a><br>Webpack 将迎来新版本咯，受到 Parcel 启发，会使用一套默认配置</p>
-<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><p><a href="https://github.com/hyperapp/hyperapp" target="_blank" rel="external">HyberApp</a><br>比Vue还轻量级，1kb的前端应用框架</p>
-<p><a href="https://github.com/sdras/object-explorer" target="_blank" rel="external">Object Explorer</a><br>便利的询问式查询 学习方式获取 object 方法</p>
-<p><a href="https://github.com/clauderic/react-sortable-hoc" target="_blank" rel="external">React Sortable (HOC)</a><br>灰常好用的排序列表组件，动效好，移动端友好</p>
-<p><a href="https://github.com/bvaughn/react-virtualized" target="_blank" rel="external">React Virtualized</a><br>Web 版本的 LivtView，还是官方推荐，用起来，用起来</p>
-<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><p><a href="http://boardgame.io/#/" target="_blank" rel="external">Boardgame</a><br>全栈小游戏解决方案</p>
-<p><a href="https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7" target="_blank" rel="external">The most popular JavaScript links of 2017</a><br>2017 前端 JS 精华集锦</p>
-<p><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/" target="_blank" rel="external">Tips to learn React + Redux in 2018</a><br>全方面学习 React + Redux 生态圈</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://juejin.im/post/5a69efda6fb9a01cb316617d&quot;&gt;《React 学习之道》The Road to learn React (简体中文版)&lt;/a&gt;&lt;br&gt;号外，号外，我们 TW 一线工程师联合翻译的新书，大家快奔走相告，帮忙推介&lt;/p&gt;
     
     </summary>
     
